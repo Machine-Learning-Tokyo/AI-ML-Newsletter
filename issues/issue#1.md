@@ -17,7 +17,7 @@ Since last year, a joint DeepMind and Google project to apply ML to 700 MW of wi
 
 A neural net trained on weather forecasts & historical turbine data predicts wind power output 36 hours ahead of actual generation. Based on these, DeepMind's model recommends optimal hourly delivery commitments to the power grid 24 hours in advance.
 
-![Alt Text](images/deepmind.gif)
+![Alt Text](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/deepmind.gif)
 
 
 https://deepmind.com/blog/machine-learning-can-boost-value-wind-energy/
