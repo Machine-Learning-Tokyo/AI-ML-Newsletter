@@ -8,3 +8,16 @@
 - How to navigate ethical and societal discussions surrounding AI
 
 https://www.coursera.org/learn/ai-for-everyone
+
+
+
+# DeepMind and Google: Machine Learning can increase the value of wind energy
+
+Since last year, a joint DeepMind and Google project to apply ML to 700 MW of wind power in the central US has so far boosted the value of wind energy by ~20%. 
+
+A neural net trained on weather forecasts & historical turbine data predicts wind power output 36 hours ahead of actual generation. Based on these, DeepMind's model recommends optimal hourly delivery commitments to the power grid 24 hours in advance.
+
+![Alt Text](images/deepmind.gif)
+
+
+https://deepmind.com/blog/machine-learning-can-boost-value-wind-energy/
