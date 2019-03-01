@@ -21,3 +21,12 @@ A neural net trained on weather forecasts & historical turbine data predicts win
 
 
 https://deepmind.com/blog/machine-learning-can-boost-value-wind-energy/
+
+# Lingvo
+
+In support of the research community and to encourage reproducible research efforts, Google AI has open-sourced Lingvo, a general deep learning TensorFlow framework with a focus on language-related tasks like machine translation, speech recognition, and speech synthesis.
+
+![Alt Text](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/lingvo.png)
+
+https://goo.gl/4da5Zj
+
