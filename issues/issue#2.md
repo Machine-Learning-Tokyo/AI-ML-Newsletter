@@ -4,4 +4,6 @@ Nice ML usecase for automatic data entry: You can now take a picture of a printe
 
 http://msft.social/kH8GuB
 
-![Excel](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/Microsoft.gif)
+<p align="center">
+  <img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/Microsoft.gif">
+</p>
