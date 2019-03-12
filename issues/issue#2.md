@@ -1,3 +1,24 @@
+# OpenAI created OpenAI LP, a for-profit company
+
+OpenAI restructured from non-profit to "capped-profit" and explained its decision in a blog post:
+
+**We’ll need to invest billions of dollars in upcoming years into large-scale cloud compute, attracting and retaining talented people, and building AI supercomputers.**
+
+
+**We want to increase our ability to raise capital while still serving our mission, and no pre-existing legal structure we know of strikes the right balance. Our solution is to create OpenAI LP as a hybrid of a for-profit and nonprofit—which we are calling a “capped-profit” company.**
+
+<p align="left">
+  <img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/OpenAILP2.png" width="600">
+  <img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/OpenAILP1.png" width="600">
+</p>
+
+### [Read more on TC](https://techcrunch.com/2019/03/11/openai-shifts-from-nonprofit-to-capped-profit-to-attract-capital/)
+
+- The company justifies this rather high profit “cap” by saying that if it succeeds in creating a working artificial general intelligence (AGI is a poorly defined concept that is nonetheless perhaps the Holy Grail of current AI research), “we expect to generate orders of magnitude more value than we’d owe to people who invest in or work at OpenAI LP.”
+
+### [Original blog post on OpenAI](https://openai.com/blog/openai-lp/)
+
+
 
 # New to Microsoft 365
 Nice ML usecase for automatic data entry: You can now take a picture of a printed data table and automatically convert it into a fully editable Excel spreadsheet. Microsoft is rolling out to Android users, coming soon to iOS. 
