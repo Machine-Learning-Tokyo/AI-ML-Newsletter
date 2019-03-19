@@ -1,13 +1,22 @@
+# NVIDIA introduces Jetson Nano - a small AI computer
+
+NVIDIA announced the Jetson Nano, a small AI computer that delivers 472 GFLOPS of compute performance for running modern AI workloads and is highly power-efficient, consuming only 5 watts. It comes in two versions — the $99 devkit for developers, makers and enthusiasts and the $129 production-ready module for companies looking to create mass-market edge systems. [[Read more]](https://nvidianews.nvidia.com/news/nvidia-announces-jetson-nano-99-tiny-yet-mighty-nvidia-cuda-x-ai-computer-that-runs-all-ai-models?ncid=so-twi-gj-78738&linkId=100000005468164)
+
+<p align="center">
+  <img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/nvidia.png" width="600">
+</p>
+
+
 # OpenAI created OpenAI LP, a for-profit company
 
 OpenAI restructured from non-profit to "capped-profit" and explained its decision in a blog post:
 
-**We’ll need to invest billions of dollars in upcoming years into large-scale cloud compute, attracting and retaining talented people, and building AI supercomputers.**
+*We’ll need to invest billions of dollars in upcoming years into large-scale cloud compute, attracting and retaining talented people, and building AI supercomputers.*
 
 
-**We want to increase our ability to raise capital while still serving our mission, and no pre-existing legal structure we know of strikes the right balance. Our solution is to create OpenAI LP as a hybrid of a for-profit and nonprofit—which we are calling a “capped-profit” company.**
+*We want to increase our ability to raise capital while still serving our mission, and no pre-existing legal structure we know of strikes the right balance. Our solution is to create OpenAI LP as a hybrid of a for-profit and nonprofit—which we are calling a “capped-profit” company.*
 
-<p align="left">
+<p align="center">
   <img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/OpenAILP2.png" width="600">
   <img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/OpenAILP1.png" width="600">
 </p>
