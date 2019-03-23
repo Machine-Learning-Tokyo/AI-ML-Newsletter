@@ -27,6 +27,12 @@ OpenAI restructured from non-profit to "capped-profit" and explained its decisio
 
 ### [Original blog post on OpenAI](https://openai.com/blog/openai-lp/)
 
+# GauGAN Turns Doodles into Photorealistic Landscapes
+NVIDIA Research developed a GAN-based tool that turns rough doodles into photorealistic landscapes. The tool leverages generative adversarial networks to convert segmentation maps into lifelike images.
+
+<p align="center">
+  <img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/GauGan.png" width="600">
+</p>
 
 
 # New to Microsoft 365
