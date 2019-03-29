@@ -2,6 +2,7 @@
 
 
 ### Issue #2: [March 2019](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%232.md)
+- Yann LeCun, Geoffrey Hinton and Yoshua Bengio win Turing Award
 - NVIDIA introduces the Jetson Nano - a small AI computer
 - OpenAI changes from non-profit to for-profit
 - GauGans tool turns doodles into photorealistic landscapes
