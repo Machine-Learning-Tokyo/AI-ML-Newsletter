@@ -1,3 +1,11 @@
+# Yann LeCun, Geoffrey Hinton and Yoshua Bengio win Turing Award
+
+Yann LeCun, Geoffrey Hinton and Yoshua Bengio - three Pioneers in Artificial Intelligence won the Turing Award for their work on neural networks. They will share $1 million for what many consider the Nobel Prize of computing.
+
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/LeCun_Hinton_Bengio.png" width="600"></p>](https://www.nytimes.com/2019/03/27/technology/turing-award-ai.html)
+
+Source: The New York Times
+
 # NVIDIA introduces Jetson Nano - a small AI computer
 
 NVIDIA announced the Jetson Nano, a small AI computer that delivers 472 GFLOPS of compute performance for running modern AI workloads and is highly power-efficient, consuming only 5 watts. It comes in two versions — the $99 devkit for developers, makers and enthusiasts and the $129 production-ready module for companies looking to create mass-market edge systems. [[Read more]](https://nvidianews.nvidia.com/news/nvidia-announces-jetson-nano-99-tiny-yet-mighty-nvidia-cuda-x-ai-computer-that-runs-all-ai-models?ncid=so-twi-gj-78738&linkId=100000005468164)
