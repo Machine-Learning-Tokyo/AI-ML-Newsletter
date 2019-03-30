@@ -35,6 +35,16 @@ OpenAI restructured from non-profit to "capped-profit" and explained its decisio
 
 ### [Original blog post on OpenAI](https://openai.com/blog/openai-lp/)
 
+# TensorFlow 2.0 Alpha release
+The TF 2.0 Alpha release is available now. This is an early version meant to share with users what the TensorFlow 2.0 API will be like, to gather feedback, and to identify and fix issues. Below are some of the key enhancements:
+
+- Eager execution as a central feature of 2.0. It aligns users’ expectations about the programming model better with TensorFlow practice and should make TensorFlow easier to learn and apply.
+- Keras tightly integrated with the TensorFlow ecosystem, and has support for Eager execution, tf.data API, tf.distribute.MirroredStrategy for multi-GPU training, TensorBoard visualization, and TF Lite and TF.js conversion.
+- Starter list of TF-Hub models loadable in TF 2.0.
+- Autograph making it easier to write models with custom control flow ops and getting graph performance with tf.function.
+
+### [Read more: TF 2.0 Roadmap](https://www.tensorflow.org/community/roadmap)
+
 # GauGAN Turns Doodles into Photorealistic Landscapes
 NVIDIA Research developed a GAN-based tool that turns rough doodles into photorealistic landscapes. The tool leverages generative adversarial networks to convert segmentation maps into lifelike images.
 
