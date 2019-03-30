@@ -5,6 +5,7 @@
 - Yann LeCun, Geoffrey Hinton and Yoshua Bengio win Turing Award
 - NVIDIA introduces the Jetson Nano - a small AI computer
 - OpenAI changes from non-profit to for-profit
+- TensorFlow 2.0 Alpha release
 - GauGans tool turns doodles into photorealistic landscapes
 - New to Microsoft 365: A nice ML use case for data entry
 - Google open sourced GPipe
