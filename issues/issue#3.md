@@ -4,7 +4,7 @@ Goodfellow, who is best known for inventing generative adversarial networks (GAN
 [[Read more]](https://venturebeat.com/2019/04/05/apple-hires-google-ai-expert-ian-goodfellow-to-direct-machine-learning/)
 
 <p align="center">
-  <img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/IanGoodfellow.png" width="600">
+  <img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/IanGoodfellow.png" width="400">
 </p>
 
 
