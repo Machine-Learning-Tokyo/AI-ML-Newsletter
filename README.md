@@ -1,5 +1,8 @@
 # Monthly updates on AI and ML topics
 
+### Issue #3: [April 2019](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%233.md)
+- 
+
 
 ### Issue #2: [March 2019](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%232.md)
 - Yann LeCun, Geoffrey Hinton and Yoshua Bengio win Turing Award
