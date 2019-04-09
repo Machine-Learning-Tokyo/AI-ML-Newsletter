@@ -1,7 +1,7 @@
 # Monthly updates on AI and ML topics
 
 ### Issue #3: [April 2019](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%233.md)
-- 
+- Ian Goodfellow changes from Google Brain to Apple
 
 
 ### Issue #2: [March 2019](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%232.md)
