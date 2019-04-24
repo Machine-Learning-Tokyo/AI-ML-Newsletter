@@ -1,6 +1,7 @@
 # Monthly updates on AI and ML topics
 
 ### Issue #3: [April 2019](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%233.md)
+- Tesla Autonomy Day
 - OpenAI Five defeats Dota 2 world champions @OGesports
 - Ian Goodfellow changes from Google Brain to Apple
 
