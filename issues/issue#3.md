@@ -1,3 +1,16 @@
+# Tesla Autonomy Day
+
+### Watch the full video:
+
+[<p align="left"><img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/tesla1.png" width="600"></p>](https://www.youtube.com/watch?v=Ucp0TTmvqOE&feature=youtu.be&t=4177)
+
+<p align="left">
+  <img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/tesla2.png" width="600">
+</p>
+
+
+
+
 # OpenAI Five defeats Dota 2 world champions @OGesports
 
 In a series of live competitions held in San Francisco the five-bot team OpenAI Five defeated the reigning Dota 2 world champion team OG. The AI won two matches back-to-back, settling the best-of-three tournament. 
