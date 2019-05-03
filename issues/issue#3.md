@@ -1,3 +1,11 @@
+# Generating adversarial patches against YOLOv2
+
+Fooling automated surveillance cameras: adversarial patches to attack person detection.
+
+[[Paper]](https://arxiv.org/abs/1904.08653)
+[[YouTube]](https://www.youtube.com/watch?v=MIbFvK2S9g8&feature=youtu.be)
+
+
 # Tesla Autonomy Day
 
 ### Watch the full video:
