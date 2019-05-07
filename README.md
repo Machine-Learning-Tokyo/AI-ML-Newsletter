@@ -1,11 +1,13 @@
 # Monthly updates on AI and ML topics
 
+### Issue #4: [May 2019](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%234.md)
+- Facebook upgraded its AI services
+
 ### Issue #3: [April 2019](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%233.md)
 - Fooling automated surveillance cameras: adversarial patches to attack person detection
 - Tesla Autonomy Day
 - OpenAI Five defeats Dota 2 world champions @OGesports
 - Ian Goodfellow changes from Google Brain to Apple
-
 
 ### Issue #2: [March 2019](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%232.md)
 - Yann LeCun, Geoffrey Hinton and Yoshua Bengio win Turing Award
