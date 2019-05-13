@@ -2,6 +2,7 @@
 
 ### Issue #4: [May 2019](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%234.md)
 - Facebook upgraded its AI services
+- G-7 Science Academies Release Statements on Artificial Intelligence
 
 ### Issue #3: [April 2019](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%233.md)
 - Fooling automated surveillance cameras: adversarial patches to attack person detection
