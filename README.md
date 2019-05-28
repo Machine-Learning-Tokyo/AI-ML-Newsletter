@@ -2,7 +2,8 @@
 
 ### Issue #4: [May 2019](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%234.md)
 - Facebook upgraded its AI services
-- G-7 Science Academies release statements on Artificial Intelligence
+- G-7 Science Academies release statements on AI
+- ML algorithm predicts heart attacks with 90% accuracy
 
 ### Issue #3: [April 2019](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%233.md)
 - Fooling automated surveillance cameras: adversarial patches to attack person detection
