@@ -1,4 +1,17 @@
 
+# Reconstruction of the orginal MNIST dataset
+
+
+Read the paper [Cold Case: The Lost MNIST Digits](https://arxiv.org/abs/1905.10498)
+
+The MNIST dataset is derived from the NIST database. A research team has reconstructed the derivation process that is accurate enough to serve as a replacement for the MNIST dataset. They trace each MNIST digit to its NIST source including its metadata such as writer identifier, partition identifier, ... and reconstruct the complete MNIST test set with 60,000 samples instead of 10,000.
+
+<p align="center">
+  <img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/mnist2.png" width="400">
+  <img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/mnist.png" width="400"></p>
+
+Tweet source: [Yann LeCun](https://twitter.com/ylecun/status/1133735660563697665)
+
 # Facebook has upgraded its AI services
 
 Facebook launched PyTorch 1.1 with TensorBoard support and gave its just-in-time (JIT) compiler an upgrade.
