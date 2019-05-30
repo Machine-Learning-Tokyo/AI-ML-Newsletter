@@ -1,6 +1,7 @@
 # Monthly updates on AI and ML topics
 
 ### Issue #4: [May 2019](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%234.md)
+- Expanded dataset: More MNIST examples
 - Facebook upgraded its AI services
 - G-7 Science Academies release statements on AI
 - ML algorithm predicts heart attacks with 90% accuracy
