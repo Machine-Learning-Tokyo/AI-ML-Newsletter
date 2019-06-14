@@ -1,6 +1,6 @@
 # Monthly updates on AI and ML topics
 
-### Issue #5: June 2019
+### Issue #5: [June 2019](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%235.md)
 - Semantic Sanity
 - ICML 2019: Thirty-sixth International Conference on Machine Learning
 
