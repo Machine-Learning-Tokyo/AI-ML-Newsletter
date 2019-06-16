@@ -5,3 +5,12 @@
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/semantic_sanity.png" width="800"></p>](https://s2-sanity.apps.allenai.org/cold-start)
 
 # ICML 2019: Thirty-sixth International Conference on Machine Learning
+
+**Google, ETH Zurich, MPI-IS, Cambridge & PROWLER.io Share Best Paper Honours**
+
+ICML announced the recipients of the Best Paper Awards:
+- [**Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations**](https://arxiv.org/pdf/1811.12359.pdf) from Google Research, ETH Zurich, and Max Planck Institute for Intelligent Systems 
+- [**Rates of Convergence for Sparse Variational Gaussian Process Regression**](https://arxiv.org/pdf/1903.03571.pdf) from the University of Cambridge and PROWLER.io.
+
+
+<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/best_paper_icml.png" width="800"></p>
