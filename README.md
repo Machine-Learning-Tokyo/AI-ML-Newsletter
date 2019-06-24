@@ -3,6 +3,7 @@
 ### Issue #5: [June 2019](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%235.md)
 - Semantic Sanity
 - ICML 2019: Thirty-sixth International Conference on Machine Learning
+- Research: AI is a ‘welcome boost’ that could add millions to GDP
 
 ### Issue #4: [May 2019](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%234.md)
 - Expanded dataset: More MNIST examples
