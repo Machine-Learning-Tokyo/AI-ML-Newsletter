@@ -14,3 +14,9 @@ ICML announced the recipients of the Best Paper Awards:
 
 
 <p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/best_paper_icml.png" width="800"></p>
+
+
+
+
+# Research: AI is a ‘welcome boost’ that could add millions to GDP
+Recent research underlines the importance of AI for business companies. A new study predicts that AI overall could provide a 22 percent GDP boost worth millions to the UK economy. 
