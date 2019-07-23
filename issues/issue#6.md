@@ -1,3 +1,9 @@
+# Microsoft invests $1B in OpenAI 
+
+Microsoft is investing $1 billion in OpenAI to support us building artificial general intelligence (AGI). "We’ll jointly develop new Azure AI supercomputing technologies, and Microsoft will become our exclusive cloud provider—so we’ll be working hard together to further extend Microsoft Azure’s capabilities in large-scale AI systems."
+
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/ms-openai.png" width="800"></p>](https://openai.com/blog/microsoft/?fbclid=IwAR0-YKK0tlUPB8xUNRSUzwOgCaxaBiGWdvJMcmLymJirC31cakknUoGUd-8)
+
 # pip install pytorch-transformers
 
 PyTorch-Transformers (formely known as pytorch-pretrained-bert) is a library of state-of-the-art pre-trained models for Natural Language Processing (NLP).
