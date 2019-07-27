@@ -1,3 +1,23 @@
+# GPT-2 and BERT on-device with Swift and CoreML
+
+Large transformers models can now live on the edge: HuggingFace ported OPenAI's GPT-2 to run on-device (using Swift and CoreML on iOS). The GIF below is GPT-2 running locally (no network) on the device!
+
+**Code:** https://github.com/huggingface/swift-coreml-transformers
+
+This repository contains:
+
+**For BERT:**
+- A pretrained Google BERT model fine-tuned for Question answering on the SQuAD dataset.
+- Swift implementations of the BERT tokenizer (BasicTokenizer and WordpieceTokenizer) and SQuAD dataset parsing utilities. 
+- A demo question answering app.
+
+**For GPT-2::**
+- A conversion script from Pytorch trained GPT-2 models (see our pytorch-transformers repo) to CoreML models.
+- The GPT-2 generation model itself, including decoding strategies (greedy and TopK are currently implemented) and GPT-2 Byte-pair encoder and decoder.
+- A neat demo app showcasing on-device text generation.
+
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/coreml-gpt2.gif" width="800"></p>](https://openai.com/blog/microsoft/?fbclid=IwAR0-YKK0tlUPB8xUNRSUzwOgCaxaBiGWdvJMcmLymJirC31cakknUoGUd-8)
+
 # Microsoft invests $1B in OpenAI 
 
 Microsoft is investing $1 billion in OpenAI to support us building artificial general intelligence (AGI). "We’ll jointly develop new Azure AI supercomputing technologies, and Microsoft will become our exclusive cloud provider—so we’ll be working hard together to further extend Microsoft Azure’s capabilities in large-scale AI systems."
