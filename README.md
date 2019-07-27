@@ -1,6 +1,7 @@
 # Monthly updates on AI and ML topics
 
 ### Issue #6: [July 2019](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%236.md)
+- GPT-2 and BERT on-device with Swift and CoreML
 - Microsoft invests $1B in OpenAI
 - pip install pytorch-transformers
 - ICLR 2020 First Call for Papers
