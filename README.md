@@ -1,5 +1,8 @@
 # Monthly updates on AI and ML topics
 
+### Issue #7: [August 2019](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%237.md)
+- OpenAI releases GPT-2 774M parameter model
+
 ### Issue #6: [July 2019](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%236.md)
 - GPT-2 and BERT on-device with Swift and CoreML
 - Microsoft invests $1B in OpenAI
