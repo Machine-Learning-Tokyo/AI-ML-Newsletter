@@ -6,3 +6,13 @@ GPT-2: OpenAI is releasing the 774 million parameter language model. Additionall
 
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/gpt2_release.png" width="700"></p>](https://openai.com/blog/gpt-2-6-month-follow-up/)
 
+# TensorFlow 2.0 is now available
+
+Updates include:
+
+- Easy model building with Keras and eager execution.
+- Robust model deployment in production on any platform.
+- Powerful experimentation for research.
+- API simplification by reducing duplication and removing deprecated endpoints.
+
+Find more information: https://github.com/tensorflow/tensorflow/releases/tag/v2.0.0-rc0
