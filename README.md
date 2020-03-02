@@ -2,7 +2,8 @@
 
 ### Issue #8: [February 2020](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/issue%238/issues/issue%238.md)
 - Geoffrey Hinton, Yann LeCun, and Yoshua Bengio have been invited to AAAI-2020 conference to give a talk
--
+- Powerful antibiotic discovered using machine learning for first time
+
 ### Issue #7: [August 2019](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%237.md)
 - OpenAI releases GPT-2 774M parameter model
 - TF 2.0 is now available
