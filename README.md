@@ -1,7 +1,7 @@
 # Monthly updates on AI and ML topics
 
 ### Issue #8: [February 2020](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/issue%238/issues/issue%238.md)
-- AAAI 2020: Hinton, LeCun, and Bengio have been invited to the AAAI-2020 and they gave talks
+- Geoffrey Hinton, Yann LeCun, and Yoshua Bengio have been invited to AAAI-2020 conference to give a talk
 -
 ### Issue #7: [August 2019](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%237.md)
 - OpenAI releases GPT-2 774M parameter model
