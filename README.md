@@ -1,6 +1,6 @@
 # Monthly updates on AI and ML topics
 
-### Issue #8: [February 2020](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%238.md)
+### Issue #8: [February 2020](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/issue%238/issues/issue%238.md)
 - AAAI 2020: Hinton, LeCun, and Bengio have been invited to the AAAI-2020 and they gave talks
 -
 ### Issue #7: [August 2019](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%237.md)
