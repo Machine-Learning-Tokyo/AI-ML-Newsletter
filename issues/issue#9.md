@@ -16,15 +16,15 @@ Google announced the release of TensorFlow Quantum ([TFQ](https://www.tensorflow
     - offers high-level abstractions for the design and implementation of both discriminative generative quantum-classical models  
 
     - offers high-level abstractions for the design and implementation of both discriminative generative quantum-classical models
-- [reference](https://ai.googleblog.com/2020/03/announcing-tensorflow-quantum-open.html)
+- Source: [Google AI Blog](https://ai.googleblog.com/2020/03/announcing-tensorflow-quantum-open.html)
 
     
 # Researchers from Microsoft have created AI ethics checklist with nearly 50 engineers from a dozen tech companies
--[reference](https://venturebeat.com/2020/03/10/microsoft-researchers-create-ai-ethics-checklist-with-ml-practitioners-from-a-dozen-tech-companies/)
+- Source: [Venture Beat](https://venturebeat.com/2020/03/10/microsoft-researchers-create-ai-ethics-checklist-with-ml-practitioners-from-a-dozen-tech-companies/)
 
 
 # Google announced a new neural-network library: Neural Tangents
 - easy-to-use, open-source neural network library
 - provides researchers with an opportunity of building an (in)finite widths versions of neural networks simultaneously
-- [reference](https://ai.googleblog.com/2020/03/fast-and-easy-infinitely-wide-networks.html?m=1) 
+- Source: [Google AI Blog](https://ai.googleblog.com/2020/03/fast-and-easy-infinitely-wide-networks.html?m=1) 
   
