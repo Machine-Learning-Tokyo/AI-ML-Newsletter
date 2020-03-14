@@ -1,5 +1,6 @@
 # Monthly updates on AI and ML topics
 ### Issue #9: [March 2020](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%239.md)
+- ICLR 2020 as a fully virtual conference due to the coronavirus spreading
 - Google announced TensorFlow Quantum: An Open Source Library for Quantum Machine Learning  
 - Researchers from Microsoft have created AI ethics checklist with nearly 50 engineers from a dozen tech companies
 - Google announced a new neural-network library: Neural Tangents
