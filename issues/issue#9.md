@@ -3,7 +3,10 @@
 - provides researchers with an opportunity of building an (in)finite widths versions of neural networks simultaneously
 - Source: [Google AI Blog](https://ai.googleblog.com/2020/03/fast-and-easy-infinitely-wide-networks.html?m=1) 
   
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/google_neural_tangent.gif" width="600"></p>](https://ai.googleblog.com/2020/03/fast-and-easy-infinitely-wide-networks.html?m=1)
   
+
+
 # Researchers from Microsoft have created AI ethics checklist with nearly 50 engineers from a dozen tech companies
 - Source: [Venture Beat](https://venturebeat.com/2020/03/10/microsoft-researchers-create-ai-ethics-checklist-with-ml-practitioners-from-a-dozen-tech-companies/)
 
