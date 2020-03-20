@@ -1,3 +1,12 @@
+# Google announced TensorFlow Developer Certificate
+- helps developers ML to showcase their ML proficiency
+- helps companies hire ML developers to solve challenging problems
+- this certificate program requires an understanding of building basic TensorFlow models using Computer Vision, Sequence modeling, and Natural Language Processing
+- by passing the exam you will receive an official TensorFlow Developer Certificate and badge to showcase your skill set and can share on LinkedIn or other social networks   
+- Source: [TensorFlow Blog](https://blog.tensorflow.org/2020/03/introducing-tensorflow-developer-certificate.html)
+
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/tf_certified_developer.png"width="600"></p>](https://blog.tensorflow.org/2020/03/introducing-tensorflow-developer-certificate.html)
+
 # Google announced a new neural-network library: Neural Tangents
 - easy-to-use, open-source neural network library
 - provides researchers with an opportunity of building an (in)finite widths versions of neural networks simultaneously
