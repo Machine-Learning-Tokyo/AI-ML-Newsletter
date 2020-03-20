@@ -5,7 +5,7 @@
 - by passing the exam you will receive an official TensorFlow Developer Certificate and badge to showcase your skill set and can share on LinkedIn or other social networks   
 - Source: [TensorFlow Blog](https://blog.tensorflow.org/2020/03/introducing-tensorflow-developer-certificate.html)
 
-[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/tf_certified_developer.png"width="600"></p>](https://blog.tensorflow.org/2020/03/introducing-tensorflow-developer-certificate.html)
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/tf_certified_developer.png" width="600"></p>](https://blog.tensorflow.org/2020/03/introducing-tensorflow-developer-certificate.html)
 
 # Google announced a new neural-network library: Neural Tangents
 - easy-to-use, open-source neural network library
