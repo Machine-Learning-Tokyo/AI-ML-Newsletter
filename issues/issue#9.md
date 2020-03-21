@@ -8,7 +8,7 @@ Ben Mildenhall, Pratul P. Srinivasan, Matthew Tancik, Jonathan T. Barron, Ravi R
 
 NeRF achieves state-of-the-art results for synthesizing novel views of complex scenes by optimizing an underlying continuous volumetric scene function using a sparse set of input views. The algorithm represents a scene using a fully-connected (non-convolutional) deep network, whose input is a single continuous 5D coordinate and whose output is the volume density and view-dependent emitted radiance at that spatial location. Views are synthesized by querying 5D coordinates along camera rays and classic volume rendering techniques are used to project the output colors and densities into an image. Because volume rendering is naturally differentiable, the only input required to optimize the representation is a set of images with known camera poses. The researchers describe how to effectively optimize neural radiance fields to render photorealistic novel views of scenes with complicated geometry and appearance, and demonstrate results that outperform prior work on neural rendering and view synthesis. 
 
-[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/fullmagnolia_200k_rgb.mp4" width="400"></p>](http://www.matthewtancik.com/nerf)
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/fullmagnolia_200k_rgb.gif" width="400"></p>](http://www.matthewtancik.com/nerf)
 
 
 # Google announced TensorFlow Developer Certificate
