@@ -10,6 +10,21 @@ NeRF achieves state-of-the-art results for synthesizing novel views of complex s
 
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/fullmagnolia_200k_rgb.gif" width="400"></p>](http://www.matthewtancik.com/nerf)
 
+# Stanford NLP Group releases Stanza
+
+Stanford NLP announced Stanza v1.0.0, the new packaging of the Python NLProc library for many human languages (now including mainland Chinese, Putonghua written with simplified characters), greatly improved and including NER. 
+
+#### Features
+- Native Python implementation requiring minimal efforts to set up;
+- Full neural network pipeline for robust text analytics, including tokenization, multi-word token (MWT) expansion, lemmatization, part-of-speech (POS) and morphological features tagging, dependency parsing, and named entity recognition;
+- Pretrained neural models supporting 66 (human) languages;
+- A stable, officially maintained Python interface to CoreNLP.
+
+#### References
+- Documentation https://stanfordnlp.github.io/stanza/ 
+- Github https://github.com/stanfordnlp/stanza 
+- PyPI https://pypi.org/project/stanza/ (or conda)
+- Paper "Peng Qi, Yuhao Zhang, Yuhui Zhang, Jason Bolton and Christopher D. Manning. 2020. Stanza: A Python Natural Language Processing Toolkit for Many Human Languages. arXiv preprint arXiv:2003.07082." [[pdf]](https://arxiv.org/abs/2003.07082)
 
 # Google announced TensorFlow Developer Certificate
 - helps developers ML to showcase their ML proficiency
