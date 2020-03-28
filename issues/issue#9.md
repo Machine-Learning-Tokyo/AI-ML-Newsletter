@@ -1,3 +1,13 @@
+# Facebook releases SynSin
+
+SynSin: End-to-end View Synthesis from a Single Image (CVPR 2020)
+
+Facebook released the code for SynSin, it allows for synthesising of new views of a scene given a single image of an unseen scene at test time. It is trained with pairs of views in a self-supervised fashion, end to end, using GAN techniques and a new differentiable point cloud renderer. At test time, a single image of an unseen scene is input to the model from which new views are generated.
+
+[Paper](https://arxiv.org/abs/1912.08804) | [GitHub](https://github.com/facebookresearch/synsin)
+
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/synsin.gif" width="200"></p>](https://github.com/facebookresearch/synsin)
+
 
 # NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis
 Ben Mildenhall, Pratul P. Srinivasan, Matthew Tancik, Jonathan T. Barron, Ravi Ramamoorthi, Ren Ng
