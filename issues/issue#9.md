@@ -8,6 +8,18 @@ Facebook released the code for SynSin, it allows for synthesising of new views o
 
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/synsin.gif" width="200"></p>](https://github.com/facebookresearch/synsin)
 
+# Turing Award 2019 winners: Patrick M. Hanrahan and Edwin E. Catmull
+Patrick M. Hanrahan and Edwin E. Catmull win Turing Award 2019 - often described as the “Nobel Prize” of computing - for fundamental contributions to 3D computer graphics, and the impact of computer-generated imagery (CGI) in filmmaking and other applications. Patrick M. Hanrahan is a Canon Professor at Stanford. Edwin E. Catmull is an American retired computer scientist and former president of Pixar and Walt Disney Animation Studios.
+
+Source: [Stanford News](https://news.stanford.edu/2020/03/18/pat-hanrahan-wins-turing-award/), [ACM](https://amturing.acm.org/byyear.cfm)
+
+
+<img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/Patrick_M_Hanrahan.jpg" width="415"/> <img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/Edwin_E_Catmull.jpg" width="447"/> 
+
+
+<p align="center">Left: Patrick M. Hanrahan | Right: Edwin E. Catmull</p>
+
+
 
 # NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis
 Ben Mildenhall, Pratul P. Srinivasan, Matthew Tancik, Jonathan T. Barron, Ravi Ramamoorthi, Ren Ng
