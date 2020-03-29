@@ -1,6 +1,6 @@
 # Monthly updates on AI and ML topics
 ### Issue #9: [March 2020](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%239.md)
-- Pat Hanrahan and Ed Catmull win Turing Award 2019 - often described as the “Nobel Prize” of computing
+- Turing Award 2019 winners: Pat Hanrahan and Ed Catmull
 - Facebook releases SynSin
 - NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis
 - Stanford NLP Group releases Stanza
