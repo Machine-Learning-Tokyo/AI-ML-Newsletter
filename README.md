@@ -1,7 +1,7 @@
 # Monthly updates on AI and ML topics
 ### Issue #9: [March 2020](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%239.md)
-- Turing Award 2019 winners: Pat Hanrahan and Ed Catmull
 - Facebook releases SynSin
+- Turing Award 2019 winners: Patrick M. Hanrahan and Edwin E. Catmull
 - NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis
 - Stanford NLP Group releases Stanza
 - Google announced TensorFlow Developer Certificate
