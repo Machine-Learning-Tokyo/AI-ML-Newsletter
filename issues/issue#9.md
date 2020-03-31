@@ -1,3 +1,18 @@
+# Keras turned 5
+
+Happy Birthday Keras! 🎉 Creator François Chollet tweeted about it: Keras turned 5 years old!
+
+Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano. It was developed with a focus on enabling fast experimentation. Being able to go from idea to result with the least possible delay is key to doing good research.
+
+- Allows for easy and fast prototyping
+- Supports both convolutional networks and recurrent networks, as well as combinations of the two
+- Runs seamlessly on CPU and GPU
+
+Documentation at [Keras.io](https://keras.io/).
+
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/keras.png" width="500"></p>](https://twitter.com/fchollet/status/1244685065331675136)
+
+
 # Facebook releases SynSin
 
 SynSin: End-to-end View Synthesis from a Single Image (CVPR 2020)
