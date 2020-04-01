@@ -1,7 +1,7 @@
 # Monthly updates on AI and ML topics
 
-### Issue #10: [April 2020](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%240.md)
-- ACM Prize in Computing Awarded to AlphaGo Developer David Silver
+### Issue #10: [April 2020](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%2310.md)
+- ACM Prize in Computing Awarded to AlphaGo Lead David Silver
 
 ### Issue #9: [March 2020](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%239.md)
 - Keras turned 5
