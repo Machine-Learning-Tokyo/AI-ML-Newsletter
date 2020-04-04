@@ -1,3 +1,20 @@
+# Image Matching Benchmark and Challenge
+The second Image Matching Challenge: seeking the best end-to-end solutions for 3D image reconstruction announced. The winners going to present the approaches at [Local Features and Beyond workshop](https://image-matching-workshop.github.io) at [CVPR2020](http://cvpr2020.thecvf.com).
+
+Reconstructing 3D objects and buildings from a series of images is a well-known problem in computer vision, known as Structure-from-Motion (SfM). It has diverse applications in photography and cultural heritage preservation and powers many services across Google Maps, such as the 3D models created from StreetView and aerial imagery. 
+
+We hope this benchmark, dataset and challenge helps advance the state of the art in 3D reconstruction with heterogeneous images.
+
+
+Source: [Google AI](https://ai.googleblog.com/2020/04/announcing-2020-image-matching.html?m=1)
+
+Challenge: [Image Matching Challenge - 2020](https://vision.uvic.ca/image-matching-challenge/)
+
+Paper: [Image Matching across Wide Baselines: From Paper to Practice](https://arxiv.org/abs/2003.01587)
+
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/3d_reconstruction.gif" width="600"></p>](https://ai.googleblog.com/2020/04/announcing-2020-image-matching.html?m=1)
+
+
 # Waymo: Automated Data Augmentation
 #### Building a new augmentation strategy for lidar point clouds
 
