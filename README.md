@@ -1,6 +1,7 @@
 # Monthly updates on AI and ML topics
 
 ### Issue #10: [April 2020](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%2310.md)
+- ML Code Completeness Checklist
 - Image Matching Benchmark and Challenge
 - Waymo: Automated Data Augmentation 
 - ACM Prize in Computing Awarded to AlphaGo Lead David Silver
