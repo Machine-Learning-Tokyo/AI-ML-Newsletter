@@ -2,15 +2,12 @@
 [Papers with Code](https://paperswithcode.com), which hosts the collection of paper implementations in one place, compiled the best practices from various popular research repositories - ML Code Completeness Checklist. ML Code Completeness Checklist is now part of the official NeurIPS 2020 code submission process.
 
 The ML Code Completeness Checklist assesses a code repository and checks a code repository for:
-* **Dependencies** — does a repository have information on dependencies or instructions on how to set up the environment?
-* **Training scripts** — does a repository contain a way to train/fit the model(s) described in the paper?
-* **Evaluation scripts** — does a repository contain a script to calculate the performance of the trained model(s) or run experiments on models?
-* **Pretrained models** — does a repository provide free access to pretrained model weights?
-* **Results** — does a repository contain a table/plot of main results and a script to reproduce those results?
 
-[Source](https://medium.com/paperswithcode/ml-code-completeness-checklist-e9127b168501)
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/ml-code-completeness-checklist.png" width="600"></p>](https://medium.com/paperswithcode/ml-code-completeness-checklist-e9127b168501)
 
-[paperswithcode, releasing-research-code](https://github.com/paperswithcode/releasing-research-code#ml-code-completeness-checklist)
+Source: [ML Code Completeness Checklist](https://medium.com/paperswithcode/ml-code-completeness-checklist-e9127b168501)
+
+GitHub: [paperswithcode, releasing-research-code](https://github.com/paperswithcode/releasing-research-code#ml-code-completeness-checklist)
 
 
 # Image Matching Benchmark and Challenge
