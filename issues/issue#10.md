@@ -9,6 +9,7 @@ The ML Code Completeness Checklist assesses a code repository and checks a code 
 * **Results** — does a repository contain a table/plot of main results and a script to reproduce those results?
 
 [Source](https://medium.com/paperswithcode/ml-code-completeness-checklist-e9127b168501)
+
 [paperswithcode, releasing-research-code](https://github.com/paperswithcode/releasing-research-code#ml-code-completeness-checklist)
 
 
