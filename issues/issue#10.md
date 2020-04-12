@@ -3,10 +3,11 @@ John Horton Conway was an English mathematician active in the theory of finite g
 
 John Conway was famous for his invention - Game of Life. Game of Life is a cellular automaton, is a zero-player game, meaning that its evolution is determined by its initial state, requiring no further input.
 
-
 Source: [John Horton Conway](https://en.wikipedia.org/wiki/John_Horton_Conway) | [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/conway-game-of-life.gif" width="600"></p>](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
+
+<p align="center">Conway's Game of Life</p>
 
 
 # ML Code Completeness Checklist
