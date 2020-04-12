@@ -1,3 +1,14 @@
+# John Horton Conway dies probably because of COVID-19 - April 11, 2020 (aged 82)
+John Horton Conway was an English mathematician active in the theory of finite groups, knot theory, number theory, combinatorial game theory and coding theory. Conway spent the first half of his long career at the University of Cambridge in England, and the second half at Princeton University in New Jersey, where he held the title John von Neumann Professor Emeritus. 
+
+John Conway was famous for his invention - Game of Life. Game of Life is a cellular automaton, is a zero-player game, meaning that its evolution is determined by its initial state, requiring no further input.
+
+
+Source: [John Horton Conway](https://en.wikipedia.org/wiki/John_Horton_Conway) | [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
+
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/conway-game-of-life.gif" width="600"></p>](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
+
+
 # ML Code Completeness Checklist
 [Papers with Code](https://paperswithcode.com), which hosts the collection of paper implementations in one place, compiled the best practices from various popular research repositories - ML Code Completeness Checklist. ML Code Completeness Checklist is now part of the official NeurIPS 2020 code submission process.
 
