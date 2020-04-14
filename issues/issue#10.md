@@ -1,3 +1,12 @@
+# OpenAI Microscope
+
+OpenAI introduced Microscope – a collection of visualizations of layers and neurons of several common deep learning models that are often studied in interpretability. Microscope makes it easier to analyze the features that form inside these neural networks.
+
+Source: [OpenAI](https://microscope.openai.com/about)
+
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/openai_microscope.png" width="600"></p>](https://microscope.openai.com/models)
+
+
 # John Horton Conway dies probably because of COVID-19 - April 11, 2020 (aged 82)
 John Horton Conway was an English mathematician active in the theory of finite groups, knot theory, number theory, combinatorial game theory and coding theory. Conway spent the first half of his long career at the University of Cambridge in England, and the second half at Princeton University in New Jersey, where he held the title John von Neumann Professor Emeritus. 
 
@@ -5,7 +14,7 @@ John Conway was famous for his invention - Game of Life. Game of Life is a cellu
 
 Source: [John Horton Conway](https://en.wikipedia.org/wiki/John_Horton_Conway) | [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 
-[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/conway-game-of-life.gif" width="600"></p>](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/conway-game-of-life.gif" width="400"></p>](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 
 <p align="center">Conway's Game of Life</p>
 
@@ -15,7 +24,7 @@ Source: [John Horton Conway](https://en.wikipedia.org/wiki/John_Horton_Conway) |
 
 The ML Code Completeness Checklist assesses a code repository and checks a code repository for:
 
-[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/ml-code-completeness-checklist.png" width="600"></p>](https://medium.com/paperswithcode/ml-code-completeness-checklist-e9127b168501)
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/ml-code-completeness-checklist.png" width="400"></p>](https://medium.com/paperswithcode/ml-code-completeness-checklist-e9127b168501)
 
 Source: [ML Code Completeness Checklist](https://medium.com/paperswithcode/ml-code-completeness-checklist-e9127b168501)
 
@@ -36,7 +45,7 @@ Challenge: [Image Matching Challenge - 2020](https://vision.uvic.ca/image-matchi
 
 Paper: [Image Matching across Wide Baselines: From Paper to Practice](https://arxiv.org/abs/2003.01587)
 
-[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/3d_reconstruction.gif" width="600"></p>](https://ai.googleblog.com/2020/04/announcing-2020-image-matching.html?m=1)
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/3d_reconstruction.gif" width="400"></p>](https://ai.googleblog.com/2020/04/announcing-2020-image-matching.html?m=1)
 
 
 # Waymo: Automated Data Augmentation
@@ -48,7 +57,7 @@ To automate the process of finding good augmentation policies for lidar point cl
 
 Source: [Waymo](https://blog.waymo.com/2020/04/using-automated-data-augmentation-to.html)
 
-[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/waymo.gif" width="600"></p>](https://blog.waymo.com/2020/04/using-automated-data-augmentation-to.html)
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/waymo.gif" width="400"></p>](https://blog.waymo.com/2020/04/using-automated-data-augmentation-to.html)
 
 
 # ACM Prize in Computing Awarded to AlphaGo Lead David Silver
