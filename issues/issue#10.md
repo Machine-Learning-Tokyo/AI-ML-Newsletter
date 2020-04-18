@@ -1,3 +1,15 @@
+# The AI For Medicine Specialization
+[deeplearning.ai](https://www.deeplearning.ai) announced their new three-course AI for Medicine Specialization. The courses can be taken from [Coursera](https://www.coursera.org/specializations/ai-for-medicine?utm_source=deeplearningai&utm_medium=institutions&utm_campaign=WebsiteCoursesAI4MTopButton). It typically takes 3-4 weeks, 4-6 hours per week to complete each course.
+
+The courses that will be covered in this specialization are: 
+
+Course 1: AI For Medical Diagnosis
+Course 2: AI For Medical Prognosis
+Course 3: AI For Medical Treatment
+
+Source: [deeplearning.ai](https://www.deeplearning.ai/ai-for-medicine/)
+
+
 # OpenAI Microscope
 
 OpenAI introduced Microscope – a collection of visualizations of layers and neurons of several common deep learning models that are often studied in interpretability. Microscope makes it easier to analyze the features that form inside these neural networks.
