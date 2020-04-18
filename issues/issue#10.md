@@ -1,10 +1,18 @@
 # The AI For Medicine Specialization
 [deeplearning.ai](https://www.deeplearning.ai) announced their new three-course AI for Medicine Specialization. The courses can be taken from [Coursera](https://www.coursera.org/specializations/ai-for-medicine?utm_source=deeplearningai&utm_medium=institutions&utm_campaign=WebsiteCoursesAI4MTopButton). It typically takes 3-4 weeks, 4-6 hours per week to complete each course.
 
-The courses that will be covered in this specialization are: 
+In this Specialization, you’ll gain practical experience applying machine learning to concrete problems in medicine. You’ll learn how to:
+- Diagnose diseases from x-rays and 3D MRI brain images
+- Predict patient survival rates more accurately using tree-based models
+- Estimate treatment effects on patients using data from randomized trials
+- Automate the task of labeling medical datasets using natural language processing
+
+The following courses will be covered in this specialization: 
 
 Course 1: AI For Medical Diagnosis
+
 Course 2: AI For Medical Prognosis
+
 Course 3: AI For Medical Treatment
 
 Source: [deeplearning.ai](https://www.deeplearning.ai/ai-for-medicine/)
