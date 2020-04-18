@@ -1,5 +1,5 @@
 # The AI For Medicine Specialization
-[deeplearning.ai](https://www.deeplearning.ai) announced their new three-course AI for Medicine Specialization:
+[DeeplearningAI](https://www.deeplearning.ai) (founded by [Andrew Ng](https://www.linkedin.com/in/andrewyng/)) announced their new three-course AI for Medicine Specialization:
 - Course 1: AI For Medical Diagnosis
 - Course 2: AI For Medical Prognosis
 - Course 3: AI For Medical Treatment
