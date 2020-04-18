@@ -1,7 +1,7 @@
 # Monthly updates on AI and ML topics
 
 ### Issue #10: [April 2020](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%2310.md)
-- AI For Medicine course
+- The AI For Medicine Specialization
 - OpenAI Microscope
 - We lost John Horton Conway
 - ML Code Completeness Checklist
