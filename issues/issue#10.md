@@ -1,3 +1,22 @@
+# MONAI Open Source AI Framework for Healthcare Research
+NVIDIA and King’s College London Announced MONAI Open Source AI Framework for Healthcare Research: domain-based, PyTorch-based project aids researchers developing AI in healthcare. 
+
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/a3e9218f01bfb3e8add72ecc0798c2eb0be5b80f/images/MONAI.jpg" width="600"></p>](https://monai.io)
+
+
+MONAI is user-friendly, delivers reproducible results and is domain-optimized for the demands of healthcare data — equipped to handle the unique formats, resolutions and specialized meta-information of medical images. The first public release provides domain-specific data transforms, neural network architectures and evaluation methods to measure the quality of medical imaging models.
+
+
+
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/MONAI_end_to_end_process.png" width="600"></p>](https://github.com/Project-MONAI/MONAI)
+
+
+
+[GitHub](https://github.com/Project-MONAI/MONAI) | [Project Website](https://monai.io)
+Source: [NVIDIA Blog](https://blogs.nvidia.com/blog/2020/04/21/monai-open-source-framework-ai-healthcare/?ncid=so-twit-79443#cid=ix11_so-twit_en-us)
+
+
+
 # The AI For Medicine Specialization
 [DeeplearningAI](https://www.deeplearning.ai) (founded by [Andrew Ng](https://www.linkedin.com/in/andrewyng/)) announced their new three-course AI for Medicine Specialization:
 - Course 1: AI For Medical Diagnosis
