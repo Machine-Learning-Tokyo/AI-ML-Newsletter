@@ -1,6 +1,7 @@
 # Monthly updates on AI and ML topics
 
 ### Issue #10: [April 2020](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%2310.md)
+- MONAI: An Open Source AI Framework for Healthcare Research
 - The AI For Medicine Specialization
 - OpenAI Microscope
 - We lost John Horton Conway
