@@ -13,6 +13,7 @@ MONAI is user-friendly, delivers reproducible results and is domain-optimized fo
 
 
 [GitHub](https://github.com/Project-MONAI/MONAI) | [Project Website](https://monai.io)
+
 Source: [NVIDIA Blog](https://blogs.nvidia.com/blog/2020/04/21/monai-open-source-framework-ai-healthcare/?ncid=so-twit-79443#cid=ix11_so-twit_en-us)
 
 
@@ -33,6 +34,8 @@ In this Specialization, you’ll gain practical experience applying machine lear
 
 
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/ai-for-medicine.png" width="600"></p>](https://www.deeplearning.ai)
+
+<p align="center">End to end process pipeline</p>
 
 
 Source: [deeplearning.ai](https://www.deeplearning.ai/ai-for-medicine/)
