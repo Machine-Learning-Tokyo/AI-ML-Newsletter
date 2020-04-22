@@ -1,17 +1,17 @@
 # PyTorch v1.5 release
 
-PyTorch v1.5: autograd API for Hessians/Jacobians, C++ frontend stable and 100% parity with Python, Better performance on GPU and CPU with Tensor Format ‘channels last’, distributed.rpc stable, Custom C++ class binding
+PyTorch v1.5: autograd API for Hessians/Jacobians, C++ frontend stable and 100% parity with Python, Better performance on GPU and CPU with Tensor Format ‘channels last’, distributed.rpc stable, Custom C++ class binding.
 
 - [Release notes:](https://bit.ly/pytorch-1-dot-5-release)
 - [Blog](https://pytorch.org/blog/pytorch-1-dot-5-released-with-new-and-updated-apis/)
 
-[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/a3e9218f01bfb3e8add72ecc0798c2eb0be5b80f/images/pytorch.png" width="600"></p>](https://pytorch.org/blog/pytorch-1-dot-5-released-with-new-and-updated-apis/)
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/pytorch.png" width="400"></p>](https://pytorch.org/blog/pytorch-1-dot-5-released-with-new-and-updated-apis/)
 
 
 # MONAI Open Source AI Framework for Healthcare Research
 NVIDIA and King’s College London Announced MONAI Open Source AI Framework for Healthcare Research: domain-based, PyTorch-based project aids researchers developing AI in healthcare. 
 
-[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/a3e9218f01bfb3e8add72ecc0798c2eb0be5b80f/images/MONAI.jpg" width="600"></p>](https://monai.io)
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/a3e9218f01bfb3e8add72ecc0798c2eb0be5b80f/images/MONAI.jpg" width="400"></p>](https://monai.io)
 
 MONAI is user-friendly, delivers reproducible results and is domain-optimized for the demands of healthcare data — equipped to handle the unique formats, resolutions and specialized meta-information of medical images. The first public release provides domain-specific data transforms, neural network architectures and evaluation methods to measure the quality of medical imaging models.
 
