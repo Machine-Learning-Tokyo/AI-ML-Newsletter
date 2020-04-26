@@ -1,3 +1,29 @@
+# Facebook and AWS introduce TorchServe
+
+TorchServe: a PyTorch model serving framework
+
+Facebook and AWS announced TorchServe, a new model-serving framework for deploying PyTorch machine learning models at scale without custom code. TorchServe is a collaboration between AWS and Facebook, and it’s available as part of the PyTorch open source project.
+
+- [AWS Blog post](https://aws.amazon.com/blogs/aws/announcing-torchserve-an-open-source-model-server-for-pytorch/)
+- [TorchServe on GitHub](https://github.com/pytorch/serve)
+
+#### Basic Features
+- Serving Quick Start - Basic server usage tutorial
+- Model Archive Quick Start - Tutorial that shows you how to package a model archive file.
+- Installation - Installation procedures
+- Serving Models - Explains how to use torchserve.
+- REST API - Specification on the API endpoint for TorchServe
+- Packaging Model Archive - Explains how to package model archive file, use model-archiver.
+- Logging - How to configure logging
+- Metrics - How to configure metrics
+- Batch inference with TorchServe - How to create and serve a model with batch inference in TorchServe
+
+#### Advanced Features
+- Advanced settings - Describes advanced TorchServe configurations.
+- Custom Model Service - Describes how to develop custom inference services.
+- Unit Tests - Housekeeping unit tests for TorchServe.
+- Benchmark - Use JMeter to run TorchServe through the paces and collect benchmark data.
+
 # PyTorch v1.5 release
 
 PyTorch v1.5: autograd API for Hessians/Jacobians, C++ frontend stable and 100% parity with Python, Better performance on GPU and CPU with Tensor Format ‘channels last’, distributed.rpc stable, Custom C++ class binding.
