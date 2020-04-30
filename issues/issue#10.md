@@ -1,3 +1,27 @@
+# Facebook AI releases Blender
+
+Facebook AI has built and open-sourced Blender, the largest-ever state-of-the-art open-domain chatbot. It outperforms others in terms of engagement and also feels more human, according to human evaluators. They pretrained large (up to 9.4 billion) Transformer neural networks on large amounts of conversational data. 
+
+The team recently introduced a novel task called Blended Skill Talk (BST) for training and evaluating desirable chatbot skills. BST consists of the following skills, leveraging previous research:
+
+- Engaging use of personality (PersonaChat)
+- Engaging use of knowledge (Wizard of Wikipedia)
+- Display of empathy (Empathetic Dialogues)
+- Ability to blend all three seamlessly (BST)
+
+#### Find all information including paper and code [here](https://ai.facebook.com/blog/state-of-the-art-open-source-chatbot).
+
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/blender.png" width="500"></p>](https://ai.facebook.com/blog/state-of-the-art-open-source-chatbot)
+
+# Virtual ICLR 2020
+
+Initially planned to happen in Addis Ababa, Ethiopia, ICLR 2020 was organized as a fully virtual conference this year due to COVID-19, with a lot of highlights such as a virtual paper visualization and exploration. 
+
+- [ICLR 2020](https://iclr.cc/)
+- [Papers (paperswithcode)](https://paperswithcode.com/conference/iclr-2020-1/official)
+
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/iclr.gif" width="400"></p>](https://twitter.com/hen_str/status/1253755826428354561)
+
 # Facebook and AWS introduce TorchServe
 
 TorchServe: a PyTorch model serving framework
