@@ -1,4 +1,6 @@
 # AI Digest: Monthly updates on AI and ML topics
+### Issue #11: [May 2020]
+
 
 ### Issue #10: [April 2020](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%2310.md)
 - Facebook AI releases Blender
