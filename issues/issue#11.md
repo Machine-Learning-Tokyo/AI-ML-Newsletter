@@ -1,3 +1,15 @@
+# Keras's new website has been launched
+Keras is an API designed for human beings, not machines. Keras follows best practices for reducing cognitive load: it offers consistent & simple APIs, it minimizes the number of user actions required for common use cases, and it provides clear & actionable error messages. It also has extensive documentation and developer guides.
+
+Now, Keras has a new website, which includes a 100% refreshed list of developer guides and code examples.
+
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/keras.png" width="600"></p>](https://keras.io)
+
+
+- [keras.io](https://keras.io)
+- [Source: Francois Chollet](https://twitter.com/fchollet/status/1258789849030463488?s=20)
+
+
 # Reinforcement Learning with Augmented Data
 
 UC Berkeley, BAIR released **RAD – Reinforcement Learning with Augmented Data** (Michael Laskin, Kimin Lee*, Adam Stooke, Lerrel Pinto, Pieter Abbeel, Aravind Srinivas).
