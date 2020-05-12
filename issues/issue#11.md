@@ -1,3 +1,10 @@
+# OSS release of pytorch-pfn-extras
+
+The Tokyo-baserd AI Startup Preferred Networks released pytorch-pfn-extras, an open-source library that supports research and development in deep learning using PyTorch. The new library is part of PFN’s ongoing effort to strengthen its ties with the PyTorch developer community as well as Optuna™, the open-source hyperparameter optimization framework for machine learning, which recently joined the PyTorch Ecosystem.
+
+Source: [PFN](https://preferred.jp/en/news/pr20200512/)
+
+
 # Keras's new website has been launched
 Keras is an API designed for human beings, not machines. Keras follows best practices for reducing cognitive load: it offers consistent & simple APIs, it minimizes the number of user actions required for common use cases, and it provides clear & actionable error messages. It also has extensive documentation and developer guides.
 
