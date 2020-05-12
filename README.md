@@ -1,6 +1,7 @@
 # AI Digest: Monthly updates on AI and ML topics
 
 ### Issue #11: [May 2020](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%2311.md)
+- Keras's new website has been launched
 - Reinforcement Learning with Augmented Data (RAD)
 - CNN Explainer
 
