@@ -1,3 +1,12 @@
+# The Big Bad NLP Database
+The Big Bad NLP Database contains more than 400 NLP related datasets spanning multiple languages and different tasks. It is managed by [Quantum Stat](https://quantumstat.com). If you are working and NLP tasks and are seeking for datasets you may want to check it out.
+
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/big_bad_nlp_db.png" width="600"></p>](https://datasets.quantumstat.com)
+
+
+[The Big Bad NLP Database](https://datasets.quantumstat.com) | [Quantum Stat](https://quantumstat.com)
+
+
 # OSS release of pytorch-pfn-extras
 
 The Tokyo-based AI Startup Preferred Networks released pytorch-pfn-extras, an open-source library that supports research and development in deep learning using PyTorch. The new library is part of PFN’s ongoing effort to strengthen its ties with the PyTorch developer community as well as Optuna™, the open-source hyperparameter optimization framework for machine learning, which recently joined the PyTorch Ecosystem.
