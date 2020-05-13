@@ -1,5 +1,9 @@
 # Hugging Face models' performance visualization
-"Hugging Face" and "Weights & Biases" published a python notebook on how to visualize s psrticular Hugging Face model performance. You can compare hyperparameters, output metrics, and system stats like GPU utilization across your models.
+["Hugging Face"](https://huggingface.co) and ["Weights & Biases"](https://www.wandb.com) published a python notebook on how to visualize s psrticular Hugging Face model performance. You can compare hyperparameters, output metrics, and system stats like GPU utilization across your models.
+
+W&B is like GitHub for machine learning models— save machine learning experiments to your private, hosted dashboard. Experiment quickly with the confidence that all the versions of your models are saved for you, no matter where you're running your scripts.
+ 
+[Step-by-step guide](https://app.wandb.ai/jxmorris12/huggingface-demo/reports/A-Step-by-Step-Guide-to-Tracking-Hugging-Face-Model-Performance--VmlldzoxMDE2MTU) | [Google Colab notebook](https://colab.research.google.com/drive/1NEiqNPhiouu2pPwDAVeFoN4-vTYMz9F8?usp=sharing#scrollTo=DKpiNY516JUf)
 
 
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/hugging_face_wandb.gif" width="600"></p>](https://www.wandb.com)
