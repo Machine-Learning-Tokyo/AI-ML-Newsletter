@@ -1,6 +1,7 @@
 # AI Digest: Monthly updates on AI and ML topics
 
 ### Issue #11: [May 2020](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%2311.md)
+- Hugging Face model's performance visualization
 - The Big Bad NLP Database
 - OSS release of pytorch-pfn-extras
 - New website for Keras has been launched
