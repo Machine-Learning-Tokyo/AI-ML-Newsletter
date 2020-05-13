@@ -1,3 +1,10 @@
+# Hugging Face models' performance visualization
+"Hugging Face" and "Weights & Biases" published a python notebook on how to visualize s psrticular Hugging Face model performance. You can compare hyperparameters, output metrics, and system stats like GPU utilization across your models.
+
+
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/hugging_face_wandb.gif" width="600"></p>](https://www.wandb.com)
+
+
 # The Big Bad NLP Database
 The Big Bad NLP Database contains more than 400 NLP related datasets spanning multiple languages and different tasks. It is managed by [Quantum Stat](https://quantumstat.com). If you are working and NLP tasks and are seeking for datasets you may want to check it out.
 
