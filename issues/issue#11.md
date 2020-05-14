@@ -1,6 +1,13 @@
 # NVIDIA released a new GPU: A100
-NVIDIA unveiled a new GPU at GTC 2020 Keynote: NVIDIA GTX A100. A100 is the world's first 5 petaflops system that packages the power of an entire data center into a unified platform for AI training, inference, and analytics. NVIDIA GTX A100 has 40GB of VRAM, 6912 FP32 CUDA cores, 54.2 Billion transistors as well as INT8 OPs (624 TOPs) which is the first time we see this in NVIDIA GPUs.
+NVIDIA unveiled a new GPU at GTC 2020 Keynote: NVIDIA GTX A100. A100 is the world's first 5 petaflops system that packages the power of an entire data center into a unified platform for AI training, inference, and analytics. NVIDIA GTX A100 has:
 
+- 40GB of VRAM
+- 6912 FP32 CUDA cores
+- 54.2 Billion transistors
+- INT8 OPs (624 TOPs) which is the first time we see this in NVIDIA GPUs.
+
+[<img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/nvidia-dgx-a100-1.png" width="450"/> ](https://www.nvidia.com/en-us/data-center/a100/)
+[<img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/nvidia-dgx-a100-2.png" width="450"/> ](https://www.nvidia.com/en-us/data-center/a100/)
 
 
 [Source](https://www.nvidia.com/en-us/data-center/a100/) | [GTC 2020 Keynote](https://www.youtube.com/watch?v=bOf2S7OzFEg&list=PLZHnYvH1qtOZ2BSwG4CHmKSVHxC2lyIPL&index=2&t=0s&linkId=100000012351818)
