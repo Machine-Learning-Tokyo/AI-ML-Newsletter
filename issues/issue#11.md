@@ -1,3 +1,12 @@
+# ACL 2020 announced accepted papers
+
+The 2020 Annual Conference of the Association for Computational Linguistics (ACL) announced this year's accepted papers. 571 Long Papers and 208 Short Papers out of 3,088 submissions were accepted, an acceptance rate of 25.2 % this year. Originally scheduled to be held in Seattle, USA, ACL 2020 will be a virtual conference held online from July 5 to 10, due to COVID-19. [Source](https://syncedreview.com/2020/05/20/acl-2020-announces-its-779-accepted-papers/) 
+
+- See ACL list of [accepted papers](https://acl2020.org/program/accepted/).
+
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/acl.png" width="600"></p>](https://acl2020.org/program/accepted/)
+
+
 # NVIDIA released a new GPU: A100
 NVIDIA unveiled a new GPU at GTC 2020 Keynote: NVIDIA GTX A100. A100 is the world's first 5 petaflops system that packages the power of an entire data center into a unified platform for AI training, inference, and analytics. NVIDIA GTX A100 has:
 
