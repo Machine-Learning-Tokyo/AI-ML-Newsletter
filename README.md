@@ -1,6 +1,7 @@
 # AI Digest: Monthly updates on AI and ML topics
 
 ### Issue #11: [May 2020](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%2311.md)
+- ACL 2020 announced accepted papers
 - NVIDIA released a new GPU: A100
 - Hugging Face models' performance visualization
 - The Big Bad NLP Database
