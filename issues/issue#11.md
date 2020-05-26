@@ -1,3 +1,12 @@
+# GameGAN: NVIDIA recreates PAC-MAN
+
+GameGAN, a generative adversarial network trained on 50,000 PAC-MAN episodes, produces a fully functional version of the dot-munching classic without an underlying game engine.
+
+- [Read more: NVIDIA Blog](https://blogs.nvidia.com/blog/2020/05/22/gamegan-research-pacman-anniversary/)
+
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/nvidia_pacman.gif" width="600"></p>](https://blogs.nvidia.com/blog/2020/05/22/gamegan-research-pacman-anniversary/)
+
+
 # ACL 2020 announced accepted papers
 
 The 2020 Annual Conference of the Association for Computational Linguistics (ACL) announced this year's accepted papers. 571 Long Papers and 208 Short Papers out of 3,088 submissions were accepted, an acceptance rate of 25.2 % this year. Originally scheduled to be held in Seattle, USA, ACL 2020 will be a virtual conference held online from July 5 to 10, due to COVID-19. [Source](https://syncedreview.com/2020/05/20/acl-2020-announces-its-779-accepted-papers/) 
