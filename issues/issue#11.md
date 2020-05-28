@@ -1,4 +1,4 @@
-# New Raspberry PI device
+# New Raspberry PI device released
 
 The Raspberry Pi Foundation has doubled the maximum amount of RAM available in the Raspberry Pi 4 to 8GB with a new device it’s selling for $75. In addition to RAM doubling, the foundation is also releasing a new 64-bit version of its operating system in early beta. The Raspberry Pi Foundation says the additional memory should be useful for compiling large pieces of software, running heavy server workloads, or maybe just having more browser tabs open at once.
 
