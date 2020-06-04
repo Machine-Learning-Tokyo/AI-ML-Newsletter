@@ -27,6 +27,6 @@ In this [link](https://neurips.cc/Conferences/2020/CompetitionTrack) you can fin
 </p>
 
 
-[Source](https://neurips.cc/Conferences/2020/CompetitionTrack)
+📌 Source: [NeurIPS 2020 Competition Track](https://neurips.cc/Conferences/2020/CompetitionTrack)
 
 
