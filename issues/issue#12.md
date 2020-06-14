@@ -3,9 +3,9 @@
 CVPR is the premier annual computer vision event comprising the main conference and several co-located workshops and short courses. With its high quality and low cost, it provides an exceptional value for students, academics and industry researchers.
 
 
-<p align="center">
-  <img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/CVPR2020.png" width="400" />
-</p>
+
+[<img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/CVPR2020.png"/>](http://cvpr2020.thecvf.com/program/main-conference)
+
 
 
 📌 [Main program](http://cvpr2020.thecvf.com/program/main-conference)
@@ -13,15 +13,11 @@ CVPR is the premier annual computer vision event comprising the main conference 
 📌 [Tutorials](http://cvpr2020.thecvf.com/program/tutorials)
 
 
-
-<p align="center">
-  <img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/CVPR2020-similarity.png" width="400" />
-</p>
+[<img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/CVPR2020-similarity.png"/>](https://blog.kitware.com/demos/cvpr-2020-papers/?filter=authors)
 
 
 
 📌 [Main Conference Paper Similarity Visualization and Search](https://blog.kitware.com/demos/cvpr-2020-papers/?filter=authors)
-
 📌 [Workshop Paper Similarity Visualization and Search](https://blog.kitware.com/demos/cvpr-2020-papers/workshops.html?filter=authors)
 
 # NeurIPS 2020 fully virtual
