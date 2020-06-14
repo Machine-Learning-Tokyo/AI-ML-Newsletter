@@ -1,11 +1,16 @@
+# NeurIPS 2020 fully virtual
+
+Following other ML conferences such as ICLR 2020 and ICML 2020 that were held online this year due to the global COVID-19 development, NeurIPS 2020 will be held as a fully virtual conference this year as well. Registration pricing will be significantly reduced and there will be no late registration charges or caps on registration. 
+
+📌 Source: [NeurIPS 2020](https://medium.com/@NeurIPSConf/neural-information-processing-systems-2020-is-going-virtual-6b8e5661f240)
+
+
 # ICML 2020 Accepted Papers
 
 - 4990 submissions (vs 3424 in 2019)
 - 1088 accepted (vs 774 in 2019)
 - 21.8% acceptance rate (vs 22.6% in 2019)
 - 53 graph papers (5% of total)
-
-
 
 📌 Source: [Twitter](https://twitter.com/SergeyI49013776/status/1267768532529557504)
 📌 Check out the accepted papers: [ICML 2020](https://icml.cc/Conferences/2020/AcceptedPapersInitial)
