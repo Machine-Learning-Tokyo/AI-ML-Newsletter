@@ -4,6 +4,18 @@ Australia, Canada, France, Germany, India, Italy, Japan, Mexico, New Zealand, th
 
 The Global Partnership on Artificial Intelligence (GPAI) is an international and multistakeholder initiative to guide the responsible development and use of AI, grounded in human rights, inclusion, diversity, innovation, and economic growth.
 
+
+In collaboration with partners and international organizations, GPAI will bring together leading experts from industry, civil society, governments, and academia to collaborate across four Working Group themes: 
+
+1) Responsible AI
+
+2) Data Governance
+
+3) The Future of Work
+
+4) Innovation & Commercialization.
+
+
 📌 [Source:](https://www.canada.ca/en/innovation-science-economic-development/news/2020/06/joint-statement-from-founding-members-of-the-global-partnership-on-artificial-intelligence.html)
 
 
