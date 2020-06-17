@@ -8,15 +8,16 @@ The Global Partnership on Artificial Intelligence (GPAI) is an international and
 In collaboration with partners and international organizations, GPAI will bring together leading experts from industry, civil society, governments, and academia to collaborate across four Working Group themes: 
 
 1) Responsible AI
-
 2) Data Governance
-
 3) The Future of Work
-
 4) Innovation & Commercialization.
 
+[<img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/GPAI.png"/>](https://www.canada.ca/en/innovation-science-economic-development/news/2020/06/joint-statement-from-founding-members-of-the-global-partnership-on-artificial-intelligence.html)
 
-📌 [Source:](https://www.canada.ca/en/innovation-science-economic-development/news/2020/06/joint-statement-from-founding-members-of-the-global-partnership-on-artificial-intelligence.html)
+
+
+
+📌 Source: [Government of Canada](https://www.canada.ca/en/innovation-science-economic-development/news/2020/06/joint-statement-from-founding-members-of-the-global-partnership-on-artificial-intelligence.html)
 
 
 # CVPR 2020 (virtual)
