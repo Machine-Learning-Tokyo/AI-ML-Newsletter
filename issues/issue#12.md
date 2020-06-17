@@ -1,3 +1,12 @@
+# The Global Partnership on Artificial Intelligence (GPAI)
+
+Australia, Canada, France, Germany, India, Italy, Japan, Mexico, New Zealand, the Republic of Korea, Singapore, Slovenia, the United Kingdom, the United States of America, and the European Union*, have joined together to create the Global Partnership on Artificial Intelligence (GPAI or Gee-Pay). Founding members will support the responsible and human-centric development and use of AI in a manner consistent with human rights, fundamental freedoms, and our shared democratic values, as elaborated in the OECD Recommendation on AI.
+
+The Global Partnership on Artificial Intelligence (GPAI) is an international and multistakeholder initiative to guide the responsible development and use of AI, grounded in human rights, inclusion, diversity, innovation, and economic growth.
+
+📌 [Source:](https://www.canada.ca/en/innovation-science-economic-development/news/2020/06/joint-statement-from-founding-members-of-the-global-partnership-on-artificial-intelligence.html)
+
+
 # CVPR 2020 (virtual)
 
 CVPR is the premier annual computer vision event comprising the main conference and several co-located workshops and short courses. With its high quality and low cost, it provides an exceptional value for students, academics and industry researchers.
