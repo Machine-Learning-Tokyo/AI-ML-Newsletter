@@ -1,6 +1,7 @@
 # AI Digest: Monthly updates on AI and ML topics
 
 ### Issue #12: [June 2020](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%2312.md)
+- The Global Partnership on Artificial Intelligence (GPAI)
 - CVPR 2020 (virtual)
 - NeurIPS 2020 fully virtual
 - ICML 2020 Accepted Papers
