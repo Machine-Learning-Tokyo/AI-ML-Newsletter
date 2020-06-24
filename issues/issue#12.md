@@ -5,7 +5,10 @@ Each individual area of interest is called a “keen” — a word often used to
 
 To use Keen, which is available both on the web and on Android, you first sign in with your Google account and enter in a topic you want to research. This could be something like "learning to bake bread", "bird watching", "learning about typography", etc.
 
-[Source: Techcrunch](https://techcrunch.com/2020/06/18/googles-latest-experiment-is-keen-an-automated-machine-learning-based-version-of-pinterest/)
+[<img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/keen.png"/>](https://www.blog.google/technology/area-120/keen/)
+
+
+📌 Source: [Techcrunch](https://techcrunch.com/2020/06/18/googles-latest-experiment-is-keen-an-automated-machine-learning-based-version-of-pinterest/) | [Google's Blog](https://www.blog.google/technology/area-120/keen/)
 
 # The Global Partnership on Artificial Intelligence (GPAI)
 
