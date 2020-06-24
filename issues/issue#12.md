@@ -1,3 +1,12 @@
+# Keen: Machine Learning based version of Interest
+A new project called Keen has been launched from Google’s in-house incubator for new ideas (Area 120) to help users track their interests. The app is like a modern rethinking of the Google Alerts service, which allows users to monitor the web for specific content. Except instead of sending emails about new Google Search results, Keen leverages a combination of machine learning techniques and human collaboration to help users curate content around a topic.
+
+Each individual area of interest is called a “keen” — a word often used to reference someone with an intellectual quickness.
+
+To use Keen, which is available both on the web and on Android, you first sign in with your Google account and enter in a topic you want to research. This could be something like "learning to bake bread", "bird watching", "learning about typography", etc.
+
+[Source: Techcrunch](https://techcrunch.com/2020/06/18/googles-latest-experiment-is-keen-an-automated-machine-learning-based-version-of-pinterest/)
+
 # The Global Partnership on Artificial Intelligence (GPAI)
 
 Australia, Canada, France, Germany, India, Italy, Japan, Mexico, New Zealand, the Republic of Korea, Singapore, Slovenia, the United Kingdom, the United States of America, and the European Union*, have joined together to create the Global Partnership on Artificial Intelligence (GPAI or Gee-Pay). Founding members will support the responsible and human-centric development and use of AI in a manner consistent with human rights, fundamental freedoms, and our shared democratic values, as elaborated in the OECD Recommendation on AI.
