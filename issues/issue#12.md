@@ -1,4 +1,4 @@
-# Keen: Machine Learning based version of Interest
+# Keen: Machine Learning based version of Pinterest
 A new project called Keen has been launched from Google’s in-house incubator for new ideas (Area 120) to help users track their interests. The app is like a modern rethinking of the Google Alerts service, which allows users to monitor the web for specific content. Except instead of sending emails about new Google Search results, Keen leverages a combination of machine learning techniques and human collaboration to help users curate content around a topic.
 
 Each individual area of interest is called a “keen” — a word often used to reference someone with an intellectual quickness.
