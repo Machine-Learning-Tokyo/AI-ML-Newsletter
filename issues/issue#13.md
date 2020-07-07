@@ -1,3 +1,24 @@
+# Deep Learning with PyTorch book
+The full version of the "Deep Learning with PyTorch" book by Luca Antiga, Eli Stevens, and Thomas Viehmann is now available.
+
+Deep Learning with PyTorch provides a detailed, hands-on introduction to building and training neural networks with PyTorch, a popular open source machine learning framework. This full book includes:
+
+Introduction to deep learning and the PyTorch library
+Pre-trained networks
+Tensors
+The mechanics of learning
+Using a neural network to fit data
+Using convolutions to generalize
+Real-world examples: Building a neural network designed for cancer detection
+Deploying to production
+
+[<img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/deep-learning-with-pytorch.png"/>](https://pytorch.org/deep-learning-with-pytorch)
+
+📌 Free copy is available for a limited time: [Deep Learning with PyTorch](https://pytorch.org/deep-learning-with-pytorch)
+
+📌 Source: [PyTorch Twitter account](https://twitter.com/PyTorch/status/1280180078966530053?s=20)
+
+
 # MIT takes down Tiny Images dataset due to offensive content
 
 MIT takes down 80 Million Tiny Images data set due to offensive content.
