@@ -1,5 +1,6 @@
 # AI Digest: Monthly updates on AI and ML topics
 ### Issue #13: [July 2020](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%2313.md)
+- MIT takes down Tiny Images dataset due to offensive content
 - International Symposium on Artificial Intelligence and Brain Science
 
 ### Issue #12: [June 2020](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%2312.md)
