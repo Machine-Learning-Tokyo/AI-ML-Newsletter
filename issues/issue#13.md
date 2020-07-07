@@ -1,4 +1,4 @@
-# Deep Learning with PyTorch book
+# Deep Learning with PyTorch
 The full version of the "Deep Learning with PyTorch" book by Luca Antiga, Eli Stevens, and Thomas Viehmann is now available.
 
 Deep Learning with PyTorch provides a detailed, hands-on introduction to building and training neural networks with PyTorch, a popular open source machine learning framework. This full book includes:
@@ -12,7 +12,7 @@ Using convolutions to generalize
 Real-world examples: Building a neural network designed for cancer detection
 Deploying to production
 
-[<img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/deep-learning-with-pytorch.png" width="400" />](https://pytorch.org/deep-learning-with-pytorch)
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/deep-learning-with-pytorch.png" width="400" /></p>](https://pytorch.org/deep-learning-with-pytorch)
 
 📌 Free copy is available for a limited time: [Deep Learning with PyTorch](https://pytorch.org/deep-learning-with-pytorch)
 
@@ -43,7 +43,7 @@ The dataset was created in 2006. 53,464 different nouns copied from Wordnet were
 Recent advances in “deep learning” realized artificial intelligence (AI) that surpasses humans in certain tasks like visual object recognition and game playing. Today’s AI, however, still lacks the versatility and flexibility of human intelligence, which motivates AI researchers to learn brain’s working principles. Neuroscientists also need helps of AI in making sense of massive data from sequencing, imaging, and so forth. The aim of this symposium is to bring together researchers advancing the forefront of AI and neuroscience to identify next targets in creating brain-like intelligence and further advancing neuroscience.
 
 
-[<img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/ai_brain_symposium.jpg" width="500"/>](http://www.brain-ai.jp/symposium2020/)
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/ai_brain_symposium.jpg" width="500"/></p>](http://www.brain-ai.jp/symposium2020/)
 
 
 📌 Date: Saturday 10th October to Monday 12th October 2020
