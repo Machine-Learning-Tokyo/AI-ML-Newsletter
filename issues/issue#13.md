@@ -1,3 +1,14 @@
+# ACL 2020 Best Paper Award
+
+The ACL 2020 Best Paper Awards went to **"Beyond Accuracy: Behavioral Testing of NLP Models with CheckList" by Marco Tulio Ribeiro, Tongshuang Wu, Carlos Guestrin, Sameer Singh.** [[paper]](https://www.aclweb.org/anthology/2020.acl-main.442/)
+
+Honorable mentions:
+
+- "Beyond Accuracy: Behavioral Testing of NLP Models with CheckList" by Marco Tulio Ribeiro, Tongshuang Wu, Carlos Guestrin, Sameer Singh [[paper]](https://www.aclweb.org/anthology/2020.acl-main.442/)
+- "Don’t Stop Pretraining: Adapt Language Models to Domains and Tasks" by Suchin Gururangan, Ana Marasović, Swabha Swayamdipta, Kyle Lo, Iz Beltagy, Doug Downey and Noah A. Smith [[paper]](https://arxiv.org/abs/2004.10964)
+
+📌 [ACL 2020](https://www.aclweb.org/anthology/volumes/2020.acl-main/)
+
 # Deep Learning with PyTorch
 The full version of the "Deep Learning with PyTorch" book by Luca Antiga, Eli Stevens, and Thomas Viehmann is now available.
 
