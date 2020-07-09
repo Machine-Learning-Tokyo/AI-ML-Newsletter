@@ -4,7 +4,7 @@ The ACL 2020 Best Paper Awards went to **"Beyond Accuracy: Behavioral Testing of
 
 Honorable mentions:
 
-- "Beyond Accuracy: Behavioral Testing of NLP Models with CheckList" by Marco Tulio Ribeiro, Tongshuang Wu, Carlos Guestrin, Sameer Singh [[paper]](https://www.aclweb.org/anthology/2020.acl-main.442/)
+- "Tangled up in BLEU: Reevaluating the Evaluation of Automatic Machine Translation Evaluation Metrics" by Nitika Mathur, Timothy Baldwin and Trevor Cohn
 - "Don’t Stop Pretraining: Adapt Language Models to Domains and Tasks" by Suchin Gururangan, Ana Marasović, Swabha Swayamdipta, Kyle Lo, Iz Beltagy, Doug Downey and Noah A. Smith [[paper]](https://arxiv.org/abs/2004.10964)
 
 📌 [ACL 2020](https://www.aclweb.org/anthology/volumes/2020.acl-main/)
