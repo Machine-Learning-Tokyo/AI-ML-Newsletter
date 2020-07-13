@@ -1,3 +1,14 @@
+# CVPR, ICCV, WACV videos
+CVPR, ICCV, WACV videos are freely available on CVF (Computer Vision Foundation) YouTube channel.
+
+Also you could find the list of conference links [here](https://openaccess.thecvf.com/menu)
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/cvf_youtube.png" width="400" /></p>](https://www.youtube.com/channel/UC0n76gicaarsN_Y9YShWwhw/videos)
+
+📌 [CVF YouTube channel](https://www.youtube.com/channel/UC0n76gicaarsN_Y9YShWwhw/videos)
+
+📌 [CVF web page](https://openaccess.thecvf.com/)
+
+
 # ACL 2020 Best Paper Award
 
 The ACL 2020 Best Paper Awards went to **"Beyond Accuracy: Behavioral Testing of NLP Models with CheckList" by Marco Tulio Ribeiro, Tongshuang Wu, Carlos Guestrin, Sameer Singh.** [[paper]](https://www.aclweb.org/anthology/2020.acl-main.442/)
