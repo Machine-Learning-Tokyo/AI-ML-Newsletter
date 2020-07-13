@@ -2,7 +2,7 @@
 CVPR, ICCV, WACV videos are freely available on CVF (Computer Vision Foundation) YouTube channel.
 
 Also you could find the list of conference links [here](https://openaccess.thecvf.com/menu)
-[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/cvf_youtube.png" width="400" /></p>](https://www.youtube.com/channel/UC0n76gicaarsN_Y9YShWwhw/videos)
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/cvf_youtube.png" width="800" /></p>](https://www.youtube.com/channel/UC0n76gicaarsN_Y9YShWwhw/videos)
 
 📌 [CVF YouTube channel](https://www.youtube.com/channel/UC0n76gicaarsN_Y9YShWwhw/videos)
 
