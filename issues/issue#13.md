@@ -1,3 +1,16 @@
+# ICML 2020 Outstanding Paper Awards
+Organizers of the 37th International Conference on Machine Learning (ICML) have announced their Outstanding Paper awards, recognizing papers from the current conference that are “strong representatives of solid theoretical and empirical work in our field.”
+
+This year the acceptance rate of 21.8 percent (1,088/4,990) is slightly lower than 2019’s 22.6 percent (774/3,424).
+
+**Outstanding Paper Awards:**
+📌 [On Learning Sets of Symmetric Elements](https://arxiv.org/pdf/2002.08599.pdf) | Authors: Haggai Maron, Or Litany, Gal Chechik, Ethan Fetaya | NVIDIA Research, Stanford University, Bar Ilan University
+
+📌 [Tuning-free Plug-and-Play Proximal Algorithm for Inverse Imaging Problems](https://arxiv.org/pdf/2002.09611.pdf) | Authors: Kaixuan Wei, Angelica Aviles-Rivero, Jingwei Liang, Ying Fu, Carola-Bibiane Schönlieb, Hua Huang | Beijing Institute of Technology, University of Cambridge
+
+📌
+
+
 # CVPR, ICCV, WACV videos
 CVPR, ICCV, WACV videos are freely available on CVF (Computer Vision Foundation) YouTube channel.
 
