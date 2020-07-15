@@ -4,11 +4,20 @@ Organizers of the 37th International Conference on Machine Learning (ICML) have 
 This year the acceptance rate of 21.8 percent (1,088/4,990) is slightly lower than 2019’s 22.6 percent (774/3,424).
 
 **Outstanding Paper Awards:**
-📌 [On Learning Sets of Symmetric Elements](https://arxiv.org/pdf/2002.08599.pdf) | Authors: Haggai Maron, Or Litany, Gal Chechik, Ethan Fetaya | NVIDIA Research, Stanford University, Bar Ilan University
 
-📌 [Tuning-free Plug-and-Play Proximal Algorithm for Inverse Imaging Problems](https://arxiv.org/pdf/2002.09611.pdf) | Authors: Kaixuan Wei, Angelica Aviles-Rivero, Jingwei Liang, Ying Fu, Carola-Bibiane Schönlieb, Hua Huang | Beijing Institute of Technology, University of Cambridge
+- [On Learning Sets of Symmetric Elements](https://arxiv.org/pdf/2002.08599.pdf) | Authors: H. Maron, O. Litany, G. Chechik, E. Fetaya
 
-📌
+- [Tuning-free Plug-and-Play Proximal Algorithm for Inverse Imaging Problems](https://arxiv.org/pdf/2002.09611.pdf) | Authors: K. Wei, A. Aviles-Rivero, J. Liang, Y. Fu, C. Schönlieb, H. Huang
+
+**Outstanding Paper (Honorable Mentions):**
+
+- [Efficiently sampling functions from Gaussian process posteriors](https://arxiv.org/pdf/2002.09309.pdf) | Authors: J. Wilson, S. Borovitskiy, A. Terenin, P. Mostowsky, M. Deisenroth
+
+- [Generative Pretraining from Pixels](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf) | Authors: M. Chen, A. Radford, R. Child, J. K Wu, H. Jun, D. Luan, I. Sutskever
+
+📌 [Source: syncedreview.com](https://syncedreview.com/2020/07/13/icml-2020-announces-outstanding-paper-awards/)
+
+📌 [ICML 2020](https://icml.cc)
 
 
 # CVPR, ICCV, WACV videos
@@ -20,6 +29,7 @@ Also you could find the list of conference links [here](https://openaccess.thecv
 📌 [CVF YouTube channel](https://www.youtube.com/channel/UC0n76gicaarsN_Y9YShWwhw/videos)
 
 📌 [CVF web page](https://openaccess.thecvf.com/)
+
 
 
 # ACL 2020 Best Paper Award
