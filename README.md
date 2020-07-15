@@ -1,5 +1,6 @@
 # AI Digest: Monthly updates on AI and ML topics
 ### Issue #13: [July 2020](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%2313.md)
+- ICML 2020 Outstanding Paper Awards
 - CVPR, ICCV, WACV videos
 - ACL 2020 Best Paper Award
 - Deep Learning with PyTorch
