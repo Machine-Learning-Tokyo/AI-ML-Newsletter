@@ -1,3 +1,12 @@
+# GPT-3 codes up a website for you
+
+Sharif Shameem demonstrated how you can give instructions in natural language to the recently released [GPT-3 API (OpenAI)](https://openai.com/blog/openai-api/) and the system will generate near perfect code for you, shown with the example of the Google homepage.
+
+Source: [Twitter @sharifshameem](https://twitter.com/sharifshameem/status/1283322990625607681)
+
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/gpt3.gif" width="600" /></p>](https://www.youtube.com/channel/UC0n76gicaarsN_Y9YShWwhw/videos)
+
+
 # ICML 2020 Outstanding Paper Awards
 Organizers of the 37th International Conference on Machine Learning (ICML) have announced their Outstanding Paper awards, recognizing papers from the current conference that are “strong representatives of solid theoretical and empirical work in our field.”
 
