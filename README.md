@@ -1,5 +1,6 @@
 # AI Digest: Monthly updates on AI and ML topics
 ### Issue #13: [July 2020](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%2313.md)
+- IEEE CIS Neural Networks Pioneer Award 2021
 - GPT-3 codes up a website for you
 - ICML 2020 Outstanding Paper Awards
 - CVPR, ICCV, WACV videos
