@@ -1,5 +1,6 @@
 # AI Digest: Monthly updates on AI and ML topics
 ### Issue #14: [August 2020](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%2314.md)
+- Real World Reinforcement Learning (RWRL) simulation
 - Google offers career certificates equivalent to 4-year degrees
 
 ### Issue #13: [July 2020](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%2313.md)
