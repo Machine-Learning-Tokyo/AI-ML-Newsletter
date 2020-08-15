@@ -1,3 +1,17 @@
+# Model Card Toolkit for Easier Model Transparency Reporting
+- Machine learning (ML) model transparency is important across a wide variety of domains that impact peoples’ lives, from healthcare to personal finance to employment.
+
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/ModelCardToolkit.jpg" width="600" /></p>](https://ai.googleblog.com/2020/07/introducing-model-card-toolkit-for.html)
+
+- Google has released a toolkit which it hopes will bring some transparency to AI models.
+
+- Model Card Toolkit aims to step in and facilitate AI model transparency reporting for developers, regulators, and downstream users.
+
+
+📌 Source: [Google AI Blog](https://ai.googleblog.com/2020/07/introducing-model-card-toolkit-for.html) | [AI News]( https://artificialintelligence-news.com/2020/07/28/musk-predicts-ai-superior-humans-five-years/)
+
+---
+
 # Real World Reinforcement Learning (RWRL) simulation suite
 - Existing RL benchmarks do not capture many of the challenges found in applied systems and products. Introducing the Real-World RL(RWRL) simulation suite, developed to accelerate research on these challenges
 
