@@ -1,3 +1,17 @@
+# ECCV 2020 Conference
+16th European conference on Computer Vision (ECCV 2020) is taking place between 23 and 28 August, 2020.
+
+- The conference is taking place fully online.
+
+## ECCV 2020 Awards:
+- Koenderink Award: 
+  - [“Improving the Fisher Kernel for Large-Scale Image Classification” by Florent Perronnin, Jorge Sánchez and Thomas Mensink](https://lear.inrialpes.fr/pubs/2010/PSM10/PSM10_0766.pdf)
+  - [“Brief: Binary robust independent elementary features” by Michael Calonder, Vincent Lepetit, Christoph Strecha, and Pascal Fua](https://www.cs.ubc.ca/~lowe/525/papers/calonder_eccv10.pdf)
+  
+  
+
+---
+
 # Model Card Toolkit for Easier Model Transparency Reporting
 - Machine learning (ML) model transparency is important across a wide variety of domains that impact peoples’ lives, from healthcare to personal finance to employment.
 
