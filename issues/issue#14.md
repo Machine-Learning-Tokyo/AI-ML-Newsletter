@@ -1,13 +1,27 @@
 # ECCV 2020 Conference
-16th European conference on Computer Vision (ECCV 2020) is taking place between 23 and 28 August, 2020.
+16th European conference on Computer Vision (ECCV 2020) is taking place, fully online, between 23 and 28 August, 2020.
 
-- The conference is taking place fully online.
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/ECCV2020.png" width="600" /></p>](https://eccv2020.eu)
 
-## ECCV 2020 Awards:
+
+**ECCV 2020 Awards:**
 - Koenderink Award: 
   - [“Improving the Fisher Kernel for Large-Scale Image Classification” by Florent Perronnin, Jorge Sánchez and Thomas Mensink](https://lear.inrialpes.fr/pubs/2010/PSM10/PSM10_0766.pdf)
   - [“Brief: Binary robust independent elementary features” by Michael Calonder, Vincent Lepetit, Christoph Strecha, and Pascal Fua](https://www.cs.ubc.ca/~lowe/525/papers/calonder_eccv10.pdf)
+
+- PAMI Mark Everingham Prize:
+  - [“Multiple Datasets” by Antonio Torralba](https://groups.csail.mit.edu/vision/torralbalab/)
+  - [“COLMAP SFM and MVS software library” by Johannes Schönberger](https://colmap.github.io)
   
+- ECCV’20 Best Demo:
+  - [“Inter-Homines” by Rita Cucchiara, Matteo Fabbri, and Simone Calderara, University of Modena and Reggio Emilia, Italy](https://arxiv.org/pdf/2007.10243.pdf)
+  
+- ECCV’20 Best Paper Honorable Mention:
+  - [“Towards Streaming Image Understanding” by Mengtian Li, Yu-Xiong Wang, Deva Ramanan](https://arxiv.org/abs/2005.10420)
+  - [“NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis” by Ben Mildenhall, Pratul P. Srinivasan, Matthew Tancik, Jonathan T. Barron, Ravi Ramamoorthi, Ren Ng](https://arxiv.org/abs/2003.08934)
+  
+- ECCV’20 Best Paper:
+  - [“RAFT: Recurrent All-Pairs Field Transforms for Optical Flow” by Zachary Teed, Jia Deng](https://arxiv.org/abs/2003.12039)
   
 
 ---
