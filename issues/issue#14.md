@@ -1,3 +1,15 @@
+# Danfo.js: a Pandas-like Library in JavaScript
+
+- Danfo.js is an open-source JavaScript library that provides high-performance, intuitive, and easy-to-use data structures for manipulating and processing structured data. Danfo.js is heavily inspired by the Python Pandas library and provides a similar interface/API. This means that users familiar with the Pandas API and know JavaScript can easily pick it up.
+
+- One of the main goals of Danfo.js is to bring data processing, machine learning and AI tools to JavaScript developers. This is in line with our vision and essentially the vision of the TensorFlow.js team, which is to bring ML to the web. Open-source libraries like Numpy and Pandas revolutionise the ease of manipulating data in Python and lots of tools were built around them, thus driving the bubbling ecosystem of ML in Python.
+
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/Danfo_JS.gif" width="600" /></p>](https://blog.tensorflow.org/2020/08/introducing-danfo-js-pandas-like-library-in-javascript.html?linkId=98080391)
+
+📌 Source: [TensorFlow Blog](https://blog.tensorflow.org/2020/08/introducing-danfo-js-pandas-like-library-in-javascript.html?linkId=98080391)
+
+---
+
 # ECCV 2020 Conference
 16th European conference on Computer Vision (ECCV 2020) is taking place, fully online, between 23 and 28 August, 2020.
 
