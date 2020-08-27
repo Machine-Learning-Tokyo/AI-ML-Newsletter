@@ -1,3 +1,19 @@
+# Semantic MapNet
+
+- The first audio-visual platform for embodied AI. With this new platform, researchers can train AI agents in 3D environments with highly realistic acoustics. 
+- Facebook AI releases a Semantic MapNet — a new framework for building top-down semantic maps and spatio-semantic memories (“mental maps”) from egocentric observations. 
+
+- This new research enables agents to learn and reason about how to navigate to objects seen during a tour (e.g., find the table) or answer questions about the space (e.g., how many chairs are in the house?).
+
+<p align="center">
+  <img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/smnet-1.gif" width="300" />
+  <img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/smnet-3.gif" width="300" />
+</p>
+
+📌 Source: [Facebook AI](https://ai.facebook.com/blog/new-milestones-in-embodied-ai#)
+
+---
+
 # Danfo.js: a Pandas-like Library in JavaScript
 
 - Danfo.js is an open-source JavaScript library that provides high-performance, intuitive, and easy-to-use data structures for manipulating and processing structured data. Danfo.js is heavily inspired by the Python Pandas library and provides a similar interface/API. This means that users familiar with the Pandas API and know JavaScript can easily pick it up.
