@@ -6,8 +6,8 @@
 - This new research enables agents to learn and reason about how to navigate to objects seen during a tour (e.g., find the table) or answer questions about the space (e.g., how many chairs are in the house?).
 
 <p align="center">
-  <img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/smnet-1.gif" width="300" />
-  <img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/smnet-3.gif" width="300" />
+  <img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/smnet-3.gif" width="500" />
+  <img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/smnet-1.gif" width="500" />
 </p>
 
 📌 Source: [Facebook AI](https://ai.facebook.com/blog/new-milestones-in-embodied-ai#)
