@@ -1,3 +1,15 @@
+# Apple's AI/ML residency program
+
+- Apple has announced an AI/ML residency program. The program invites experts in various fields to apply their expertise to build revolutionary machine learning empowered products and experiences.
+
+- The year-long program will welcome residents with STEM graduate degrees or equivalent industry experience and niche expertise — like design, linguistics, neuroscience, or psychology. 
+
+- The program aims to invest in the resident’s technical and theoretical machine learning development, and help advance their professional careers.
+
+📌 Source: [Apple Machine Learning Research](https://machinelearning.apple.com/updates/introducing-aiml-residency-program)
+
+---
+ 
 # Semantic MapNet
 
 - The first audio-visual platform for embodied AI. With this new platform, researchers can train AI agents in 3D environments with highly realistic acoustics. 
