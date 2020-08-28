@@ -1,3 +1,18 @@
+# TF-Coder
+Google Research introduced a TF-Coder — a tool that writes tricky TensorFlow expressions for you.
+
+- it helps you to write tensor manipulations in TensorFlow. 
+
+- simply provide an input/output example of the desired behavior, and leave the rest to TF-Coder!
+
+<p> <img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/tf-coder.png"/> </p>
+
+- try it out on [Google Colab notebook](https://colab.research.google.com/github/google-research/tensorflow-coder/blob/master/TF-Coder_Colab.ipynb?linkId=98162088)  
+
+📌 Source: [Google Research](https://blog.tensorflow.org/2020/08/introducing-tensorflow-coder-tool.html?linkId=98162087)
+
+---
+
 # Objax: a new high-level JAX API
 
 - Objax is a new high-level JAX API with a PyTorch-like interface. It pursues the quest for the simplest design and code that’s as easy as possible to extend without sacrificing performance.
