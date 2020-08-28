@@ -1,3 +1,18 @@
+# Objax: a new high-level JAX API
+
+- Objax is a new high-level JAX API with a PyTorch-like interface. It pursues the quest for the simplest design and code that’s as easy as possible to extend without sacrificing performance.
+
+- [David Berthelot](https://twitter.com/D_Berthelot_ML) is the creator of Objax, and he says that the Objax is purely object oriented (while other frameworks are not really) and Objax's philosophy is a simplicity and performance.
+
+- Objax is meant to be owned by the community. The code simplicity itself is meant to have non CS experts feel comfortable contributing. This design is for researchers and students.
+
+
+
+📌 Source: [Objax](https://github.com/google/objax) | [objax.readthedocs.io](https://objax.readthedocs.io/en/latest/index.html)
+
+
+---
+
 # Apple's AI/ML residency program
 
 - Apple has announced an AI/ML residency program. The program invites experts in various fields to apply their expertise to build revolutionary machine learning empowered products and experiences.
