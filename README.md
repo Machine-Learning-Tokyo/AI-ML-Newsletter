@@ -1,5 +1,6 @@
 # AI Digest: Monthly updates on AI and ML topics
 ### Issue #14: [August 2020](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%2314.md)
+- Objax: a new high-level JAX API
 - Apple's AI/ML residency program
 - Semantic MapNet
 - Danfo.js: a Pandas-like Library in JavaScript
