@@ -1,3 +1,14 @@
+# TensorFlow Lite Micro support on the ESP32
+Tensorflow team announced TensorFlow Lite Micro support for the ESP32 chipset. 
+
+- the ESP32 is a Wi-Fi/BT/BLE enabled MCU (micro-controller) that is widely used by hobbyists and makers to build cool and interesting projects that sense or modify real world data/object
+
+- it is commonly deployed in smart home appliances like light bulbs, switches, refrigerators, and air conditioners to provide connectivity.  
+
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/tflite_esp32.gif" width="600" /></p>](https://blog.tensorflow.org/2020/08/announcing-tensorflow-lite-micro-esp32.html?m=1)
+
+📌 Source: [Tensorflow Blog](https://blog.tensorflow.org/2020/08/announcing-tensorflow-lite-micro-esp32.html?m=1)
+
 # TF-Coder
 Google Research introduced a TF-Coder — a tool that writes tricky TensorFlow expressions for you.
 
