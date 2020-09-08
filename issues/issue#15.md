@@ -1,3 +1,21 @@
+# NLP Specialization — Attention Models
+- [Deeplearning.ai](https://www.deeplearning.ai/) announced a 4th course on Natural Language Processing Specialization. 
+
+- The course launches on September 23 on [coursera](https://www.coursera.org/learn/attention-models-in-nlp)
+
+- Financial aid is available
+
+
+[<p align="center"> <img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/AttentionModels.jpeg" width="500" /> </p>](https://www.coursera.org/learn/attention-models-in-nlp)
+
+📌 [NLP Specialization](https://www.coursera.org/specializations/natural-language-processing)
+
+📌 Source: [DeepLearning.AI](https://twitter.com/DeepLearningAI_/status/1303030274599653378?s=20)
+
+
+
+---
+
 # GeForce RTX 30 Series
 
 NVIDIA released GeForce RTX 30 Series Graphics Cards. GeForce RTX 30 Series GPUs feature several world firsts: 
