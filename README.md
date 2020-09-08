@@ -1,6 +1,7 @@
 # AI Digest: Monthly updates on AI and ML topics
 ### Issue #15: [September 2020](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%2315.md)
 - GeForce RTX 30 Series
+- NLP Specialization — Attention Models
 
 ### Issue #14: [August 2020](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%2314.md)
 - TensorFlow Lite Micro support on the ESP32
