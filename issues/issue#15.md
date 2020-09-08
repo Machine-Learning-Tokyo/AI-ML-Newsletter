@@ -1,5 +1,5 @@
 # NLP Specialization — Attention Models
-- [Deeplearning.ai](https://www.deeplearning.ai/) announced a 4th course on Natural Language Processing Specialization. 
+- [Deeplearning.ai](https://www.deeplearning.ai/) announced the 4th course on Natural Language Processing Specialization. 
 
 - The course launches on September 23 on [coursera](https://www.coursera.org/learn/attention-models-in-nlp)
 
