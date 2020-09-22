@@ -1,3 +1,15 @@
+# NVIDIA to acquire Arm
+
+NVIDIA announced to acquire Arm Limited from SoftBank Group and the SoftBank Vision Fund for $40 billion, intending to become the world’s premier computing company for the age of AI. According to NVIDIA's official statement the acquisition:
+
+- Unites NVIDIA’s leadership in AI with Arm’s vast computing ecosystem to drive innovation for all customers
+- NVIDIA will expand Arm’s R&D presence in Cambridge, UK, by establishing a world-class AI research and education center, and building an Arm/NVIDIA-powered AI supercomputer for groundbreaking research
+- NVIDIA will continue Arm’s open-licensing model and customer neutrality and expand Arm’s IP licensing portfolio with NVIDIA technology
+- Immediately accretive to NVIDIA’s non-GAAP gross margin and EPS
+- Consideration of $40 billion to be met through a combination of NVIDIA shares and cash
+
+📌 Source: [NVIDIA](https://nvidianews.nvidia.com/news/nvidia-to-acquire-arm-for-40-billion-creating-worlds-premier-computing-company-for-the-age-of-ai)
+
 # Generative Adversarial Networks (GANs) Specialization
 - [Deeplearning.ai](https://www.deeplearning.ai/) announced a new specialization — Generative Adversarial Networks (GANs). 
 
