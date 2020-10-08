@@ -19,6 +19,8 @@ with tsensor.clarify():
 [<p align="center"> <img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/tsensor.png" width="600" /> </p>](https://explained.ai/tensor-sensor/index.html)
 
 
+📌 Source: [Terence Parr](https://twitter.com/the_antlr_guy?s=20) | [explained.ai](https://explained.ai/tensor-sensor/index.html)
+
 
 # NVIDIA Maxine
 
