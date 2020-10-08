@@ -1,3 +1,25 @@
+# TensorSensor
+
+- TensorSensor is a library that clarifies exceptions by augmenting messages and visualizing Python code to indicate the shape of tensor variables.
+
+- TensorSensor works with TensorFlow, PyTorch, Numpy as well as higher-level libraries like Keras and fastai.
+
+```
+import tsensor
+import numpy as np
+
+W = np.random.rand(764, 100)  # This should be (100, 674) which would rise an exception
+b = np.random.rand(100, 1)
+X = np.random.rand(200, 764) 
+
+with tsensor.clarify():
+    Y = W @ X.T + b
+```
+
+[<p align="center"> <img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/tsensor.png" width="600" /> </p>](https://explained.ai/tensor-sensor/index.html)
+
+
+
 # NVIDIA Maxine
 
 NVIDIA introduces Maxine, "a fully accelerated platform for developers to build and deploy AI-powered features in video conferencing services using state-of-the-art models that run in the cloud. Applications based on Maxine can reduce video bandwidth usage down to one-tenth of H.264 using AI video compression." 
