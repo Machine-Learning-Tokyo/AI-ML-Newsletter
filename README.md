@@ -1,6 +1,7 @@
 # AI Digest: Monthly updates on AI and ML topics
 
 ### Issue #16: [October 2020](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%2316.md)
+- M2M-100 — multilingual machine translation
 - TensorSensor
 - NVIDIA Maxine
 - NeurIPS 2020 Accepted Papers
