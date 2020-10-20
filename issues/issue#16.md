@@ -1,3 +1,18 @@
+# VLFeat gets an award
+
+- Andrea Vedaldi and Brian Fulkerson receives 2020 ACM SIGMM Test of Time Paper Award for VLFeat.
+
+- VLFeat is one of the earliest open and portable library of computer vision algorithms. The library had been used by most of the Computer Vision researchers before the latest deep learning libraries showed up.
+
+[<p align="center"> <img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/VLFeat.png" width="600" /> </p>](https://www.vlfeat.org/)
+
+
+- 2020 ACM SIGMM Test of Time Paper Award is going to be presented every year, starting in 2020, to the authors of the paper published a decade ago at an SIGMM sponsored conference. The award recognizes the paper that has had the most impact and influence on the field of Multimedia in terms of research, development, product or ideas, during the intervening years, as selected by a selection committee.
+
+
+📌 Source: [sigmm.org](http://sigmm.org/Awards/testoftime)
+
+
 # M2M-100 — multilingual machine translation
 
 - Facebook AI introduced the first multilangual machine translation model — M2M-100
