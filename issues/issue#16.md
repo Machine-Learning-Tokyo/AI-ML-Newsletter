@@ -1,3 +1,18 @@
+# M2M-100 — multilingual machine translation
+
+- Facebook AI introduced the first multilangual machine translation model — M2M-100
+
+- The model can translate between any pair of 100 languages without relying on English data
+
+- The team open-sourced the model, training and evaluation set up.
+
+[<p align="center"> <img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/M2M-100.png" width="600" /> </p>](https://ai.facebook.com/blog/introducing-many-to-many-multilingual-machine-translation)
+
+📌 Source: [Facebook AI](https://ai.facebook.com/blog/introducing-many-to-many-multilingual-machine-translation)
+
+
+
+
 # TensorSensor
 
 - TensorSensor is a library that clarifies exceptions by augmenting messages and visualizing Python code to indicate the shape of tensor variables.
