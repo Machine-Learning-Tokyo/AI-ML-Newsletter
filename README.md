@@ -1,6 +1,7 @@
 # AI Digest: Monthly updates on AI and ML topics
 
 ### Issue #16: [October 2020](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%2316.md)
+- Papers with Code X Arxiv partnership 
 - VLFeat Library gets an award
 - M2M-100 — multilingual machine translation
 - TensorSensor
