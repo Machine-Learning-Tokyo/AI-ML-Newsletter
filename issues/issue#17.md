@@ -2,7 +2,7 @@
 
 - the latest version of AlphaFold has been recognised as a solution to one of biology's grand challenges - the “protein folding problem”. 
 
-- It was validated at #CASP14, the biennial Critical Assessment of protein Structure Prediction
+- It was validated at CASP14, the biennial Critical Assessment of protein Structure Prediction
 
 - We’re excited about the potential impact AlphaFold may have on the future of biological research and scientific discovery. 
 
