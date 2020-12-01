@@ -1,9 +1,11 @@
-# Papers with Code X Arxiv partnership 
+# AlphaFold: a solution to a 50-year-old grand challenge in biology
 
-- Papers with code announced a partnership with arXiv to support links to code on arXiv.
+- the latest version of AlphaFold has been recognised as a solution to one of biology's grand challenges - the “protein folding problem”. 
 
-- Machine learning articles on arXiv now have a Code tab to link official and community code with the paper, as shown below:
+- It was validated at #CASP14, the biennial Critical Assessment of protein Structure Prediction
 
-[<p align="center"> <img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/papers-with-code-arxiv.jpeg" width="600" /> </p>](https://medium.com/paperswithcode/papers-with-code-partners-with-arxiv-ecc362883167)
+- We’re excited about the potential impact AlphaFold may have on the future of biological research and scientific discovery. 
 
-📌 Source: [Papers with code](https://medium.com/paperswithcode/papers-with-code-partners-with-arxiv-ecc362883167)
+[<p align="center"> <img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/alphafold.gif" width="600" /> </p>](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/alphafold.gif)
+
+📌 Source: [DeepMind Blog](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/alphafold.gif)
