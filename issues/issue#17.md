@@ -44,3 +44,18 @@
 📌 Source: [Grad SLAM](https://gradslam.github.io/)
 
 📌 Paper: [∇SLAM: Dense SLAM meets Automatic Differentiation](https://gradslam.github.io/paper.pdf)
+
+
+# The Language Interpretability Tool (LIT)
+
+- The Language Interpretability Tool (LIT) is an open-source platform for visualization and understanding of NLP models.
+
+- LIT is for researchers and practitioners looking to understand NLP model behavior through a visual, interactive, and extensible tool.
+
+- LIT contains many built-in capabilities but is also customizable, with the ability to add custom interpretability techniques, metrics calculations, counterfactual generators, visualizations, and more.
+
+
+[<p align="center"> <img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/language_interpretability_tool.gif" width="600" /> </p>](https://pair-code.github.io/lit//)
+
+
+📌 Paper: [The Language Interpretability Tool (LIT)](https://pair-code.github.io/lit/)
