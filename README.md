@@ -1,6 +1,7 @@
 # AI Digest: Monthly updates on AI and ML topics
 ### Issue #17: [November 2020](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%2317.md)
-- AlphaFold
+- AlphaFold-2
+- Grad SLAM
 
 ### Issue #16: [October 2020](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%2316.md)
 - Papers with Code X Arxiv partnership 
