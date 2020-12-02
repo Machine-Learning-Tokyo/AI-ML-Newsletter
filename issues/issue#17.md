@@ -6,9 +6,28 @@
 
 - We’re excited about the potential impact AlphaFold may have on the future of biological research and scientific discovery. 
 
-[<p align="center"> <img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/alphafold.gif" width="600" /> </p>](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/alphafold.gif)
+[<p align="center"> <img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/alphafold.gif" width="600" /> </p>](https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology)
 
-📌 Source: [DeepMind Blog](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/alphafold.gif)
+📌 Source: [DeepMind Blog](https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology)
+
+
+# NeurIPS Meetup Japan 2020
+
+- NeurIPS is one of the top conference for Machine Learning and Computational Neuroscience
+
+- NeurIPS Meetup is a local event hosted during the NeurIPS conference, leveraging conference videos and live local content, with a duration ranging from a few hours to a full week, and bringing together participants from one or more companies, universities, and/or the public. 
+
+- NeurIPS Meetup Japan will take place this year on December. 
+
+- The NeurIPS Meetup is organizers by RIKEN AIP, MLT, Keio University, University of Tokyo, Tokyo Institute of Technology, NTT and MathWorks Japan.  
+
+[<p align="center"> <img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/NeurIPS_Japan_2020.jpeg" width="600" /> </p>](https://neuripsmeetupjapan.github.io/)
+
+
+
+📌 Source: [NeurIPS Meetups](https://neuripsconf.medium.com/making-meetups-for-neurips-2020-bbacadaaf6bd)
+
+📌 Source: [NeurIPS Meetup Japan 2020](https://neuripsmeetupjapan.github.io/)
 
 
 # Grad SLAM
