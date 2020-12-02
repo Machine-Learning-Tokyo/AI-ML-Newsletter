@@ -74,3 +74,19 @@
 📌 Source: [The Language Interpretability Tool (LIT)](https://tfhub.dev/google/collections/experts/bit/1)
 
 📌 Paper: [Scalable Transfer Learning with Expert Models](https://arxiv.org/abs/2009.13239)
+
+
+# MinDiff Framework
+
+- MinDiff — a new regularization technique available in the TF Model Remediation library for effectively and efficiently mitigating unfair biases when training ML models.
+
+- Given two sets of examples from our dataset, MinDiff penalizes the model during training for differences in the distribution of scores between the two sets. The less distinguishable the two sets are based on prediction scores, the smaller the penalty that will be applied.
+
+[<p align="center"> <img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/MinDiff.jpeg" width="600" /> </p>](https://www.tensorflow.org/responsible_ai/model_remediation/)
+
+
+
+
+📌 Source: [TF Model Remediation library](https://www.tensorflow.org/responsible_ai/model_remediation/) | [Google AI Blog](https://ai.googleblog.com/2020/11/)
+
+
