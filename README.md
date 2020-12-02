@@ -1,4 +1,8 @@
 # AI Digest: Monthly updates on AI and ML topics
+### Issue #18: [December 2020](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%2318.md)
+- NVIDIA Inception Alliance with GE Healthcare and Nuance
+
+
 ### Issue #17: [November 2020](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%2317.md)
 - AlphaFold-2
 - NeurIPS Meetup Japan 2020
