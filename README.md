@@ -5,6 +5,7 @@
 - Grad SLAM
 - The Language Interpretability Tool (LIT)
 - Image Expert Models
+- MinDiff Framework
 
 ### Issue #16: [October 2020](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%2316.md)
 - Papers with Code X Arxiv partnership 
