@@ -22,5 +22,6 @@
 
 [<p align="center"> <img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/gradSLAM.gif" width="600" /> </p>](https://gradslam.github.io/)
 
-📌 Source: [Paper](https://gradslam.github.io/paper.pdf)
 📌 Source: [Grad SLAM](https://gradslam.github.io/)
+
+📌 Paper: [∇SLAM: Dense SLAM meets Automatic Differentiation](https://gradslam.github.io/paper.pdf)
