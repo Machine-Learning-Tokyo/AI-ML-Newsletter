@@ -55,7 +55,22 @@
 - LIT contains many built-in capabilities but is also customizable, with the ability to add custom interpretability techniques, metrics calculations, counterfactual generators, visualizations, and more.
 
 
-[<p align="center"> <img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/language_interpretability_tool.gif" width="600" /> </p>](https://pair-code.github.io/lit//)
+[<p align="center"> <img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/language_interpretability_tool.gif" width="600" /> </p>](https://pair-code.github.io/lit/)
 
 
-📌 Paper: [The Language Interpretability Tool (LIT)](https://pair-code.github.io/lit/)
+📌 Source: [The Language Interpretability Tool (LIT)](https://pair-code.github.io/lit/)
+
+
+# Image Expert Models
+
+- Image Expert Models is a collection of pre-trained image representations that have been tailored for different data distributions.
+
+- 48 models from the Scalable Transfer Learning with Expert Models paper have been added to TFHub, increasing the diversity of pretrained image representations.
+
+
+[<p align="center"> <img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/image_expert_models.jpeg" width="600" /> </p>](https://tfhub.dev/google/collections/experts/bit/1)
+
+
+📌 Source: [The Language Interpretability Tool (LIT)](https://tfhub.dev/google/collections/experts/bit/1)
+
+📌 Paper: [Scalable Transfer Learning with Expert Models](https://arxiv.org/abs/2009.13239)
