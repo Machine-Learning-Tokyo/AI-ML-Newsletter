@@ -90,3 +90,23 @@
 📌 Source: [TF Model Remediation library](https://www.tensorflow.org/responsible_ai/model_remediation/) | [Google AI Blog](https://ai.googleblog.com/2020/11/)
 
 
+
+# Apple M1 chip
+
+- Apple announced a new M1 chip — the first chip designed specifically for Mac which delivers incredible performance, custom technologies, and revolutionary power efficiency. 
+
+- With a giant leap in performance per watt, every Mac with M1 is transformed into a completely different class of product. This isn’t an upgrade. It’s a breakthrough.
+
+- According to the official TensorFlow Blog, the M1 chip can exploit accelerated training in a Mac-optimised version of TensorFlow together with the new ML compute framework.
+
+
+[<p align="center"> <img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/apple_M1_chip.jpeg" width="600" /> </p>](https://www.apple.com/mac/m1/)
+
+
+
+
+📌 Source: [Apple M1](https://www.apple.com/mac/m1/) | [TensorFlow Blog](https://blog.tensorflow.org/2020/11/accelerating-tensorflow-performance-on-mac.html)
+
+
+
+
