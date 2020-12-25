@@ -1,4 +1,4 @@
-# 
+# DeiT: Data-efficient image Transformers
 
 Facebook AI open-sourced a new system to train computer vision models using Transformers. 
 
