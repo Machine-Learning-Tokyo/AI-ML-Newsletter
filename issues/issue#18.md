@@ -1,3 +1,13 @@
+# 
+
+Facebook AI open-sourced a new system to train computer vision models using Transformers. 
+
+Data-efficient image Transformers (DeiT) is a high-performance image classification model requiring less data & computing resources to train than previous AI models. 
+
+[<p align="center"> <img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/DeiT.png" width="600" /> </p>](https://ai.facebook.com/blog/data-efficient-image-transformers-a-promising-new-technique-for-image-classification/)
+
+📌 Source: [Facebook AI](https://ai.facebook.com/blog/data-efficient-image-transformers-a-promising-new-technique-for-image-classification/)
+
 # AI Debate 2: Moving AI Forward
 
 Last year MontrealAI organized a first AI Debate which took place between Yoshia Bengio and Gary Marcus. This year (2020) Montreal AI organized the second AI Debate with wonderful lineup. Sixteen scholarts discussed what things AI needs to move forward, including Daniel Kahneman, Fei-Fei Li, Judea Pearl!
