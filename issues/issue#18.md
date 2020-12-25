@@ -21,7 +21,7 @@ Facebook AI open-sourced a new system to train computer vision models using Tran
 
 Data-efficient image Transformers (DeiT) is a high-performance image classification model requiring less data & computing resources to train than previous AI models. 
 
-[<p align="center"> <img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/DeiT.png" width="600" /> </p>](https://ai.facebook.com/blog/data-efficient-image-transformers-a-promising-new-technique-for-image-classification/)
+[<p align="center"> <img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/DeiT.png" height="600" /> </p>](https://ai.facebook.com/blog/data-efficient-image-transformers-a-promising-new-technique-for-image-classification/)
 
 📌 Source: [Facebook AI](https://ai.facebook.com/blog/data-efficient-image-transformers-a-promising-new-technique-for-image-classification/)
 
