@@ -1,3 +1,20 @@
+# Robustness Metrics
+
+Google Research open-sourced robustness metrics for out-of-distribution generalization and uncertainty quantification.
+
+Robustness Metrics provides lightweight modules in order to evaluate the robustness of classification models across three sets of metrics:
+
+- out-of-distribution generalization (e.g. a non-expert human would be able to classify similar objects, but possibly changed viewpoint, scene setting or clutter).
+
+- stability (of the prediction and predicted probabilities) under natural perturbation of the input.
+
+- uncertainty (e.g. assessing to which extent the probabilities predicted by a model reflect the true probabilities)
+
+
+📌 Source: [GitHub Repo](https://github.com/google-research/robustness_metrics)
+
+
+
 # DeiT: Data-efficient image Transformers
 
 Facebook AI open-sourced a new system to train computer vision models using Transformers. 
