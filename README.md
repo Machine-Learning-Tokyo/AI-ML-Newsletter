@@ -1,5 +1,7 @@
 # AI Digest: Monthly updates on AI and ML topics
 ### Issue #18: [December 2020](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%2318.md)
+- DeiT: Data-efficient image Transformers
+- AI Debate 2
 - Mementor
 - NVIDIA Inception Alliance with GE Healthcare and Nuance
 
