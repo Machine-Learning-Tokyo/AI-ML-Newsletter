@@ -31,7 +31,7 @@ Last year MontrealAI organized a first AI Debate which took place between Yoshia
 
 [<p align="center"> <img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/AIDebate%232.png" width="600" /> </p>](https://www.eventbrite.ca/e/ai-debate-2-live-streaming-tickets-89401898485#)
 
-📌 Source: [Montreal AI](https://twitter.com/Montreal_AI/status/1336830902509441026?s=20) | [ZD Net](https://www.zdnet.com/article/ai-debate4-2-night-of-a-thousand-ai-scholars/)
+📌 Source: [Montreal AI](https://www.youtube.com/watch?v=VOI3Bb3p4GM&feature=youtu.be) | [ZD Net](https://www.zdnet.com/article/ai-debate4-2-night-of-a-thousand-ai-scholars/)
 
 
 
