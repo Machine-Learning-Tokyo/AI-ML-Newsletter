@@ -2,6 +2,7 @@
 
 ### Issue #19: [January 2021](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%2319.md)
 - JupyterLab 3.0 is released
+- Objectron Dataset
 
 ### Issue #18: [December 2020](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%2318.md)
 - Robustness Metrics
