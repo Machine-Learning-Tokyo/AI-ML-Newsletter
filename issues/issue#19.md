@@ -6,7 +6,8 @@
 
 [<p align="center"> <img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/visdom-project.png" width="600" /> </p>](https://blog.fossasia.org/welcome-the-visdom-project-at-fossasia-now-fully-open-source/)
 
-📌 Source: [Fossasia](https://blog.fossasia.org/welcome-the-visdom-project-at-fossasia-now-fully-open-source/) | [GitHub Repository](https://github.com/fossasia/visdom/)
+📌 Source: [Fossasia](https://blog.fossasia.org/welcome-the-visdom-project-at-fossasia-now-fully-open-source/)
+📌 GitHub Repository: [visdom](https://github.com/fossasia/visdom/)
 
 
 # Objectron Dataset
