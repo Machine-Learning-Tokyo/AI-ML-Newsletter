@@ -1,3 +1,17 @@
+# CVPR 2021 Workshops
+- The complete list of CVPR 2021 workshops is now available 
+- There are lots of interesting workshops going to take place at CVPR 2021
+- CVPR 2021 will be fully virtual in July, 2021
+
+
+[<p align="center"> <img src="
+https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/cvpr2021-workshops.png" width="600" /> </p>](http://cvpr2021.thecvf.com/workshops-schedule)
+
+📌 Source: [CVPR 2021](http://cvpr2021.thecvf.com/workshops-schedule)
+
+
+
+
 # Visdom: a data visualization tool
 - Visdom is a flexible tool for creating, organizing, and sharing visualizations of live, rich data. 
 - It aims to facilitate visualization of (remote) data with an emphasis on supporting scientific experimentation.
