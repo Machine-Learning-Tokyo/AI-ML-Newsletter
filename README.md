@@ -1,6 +1,9 @@
 # AI Digest: Monthly updates on AI and ML topics
 
+### Issue #20: [February 2021](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%2320.md)
+
 ### Issue #19: [January 2021](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%2319.md)
+- Visdom: a data visualization tool
 - Objectron Dataset
 - JupyterLab 3.0 is released
 
@@ -91,7 +94,7 @@
 - Waymo: Automated Data Augmentation 
 - ACM Prize in Computing Awarded to AlphaGo Lead David Silver
 
-### Issue #9: [March 2020](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%239.md)
+### Issue #9: [March 2020](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%2309.md)
 - Keras turned 5
 - Facebook releases SynSin
 - Turing Award 2019 winners: Patrick M. Hanrahan and Edwin E. Catmull
@@ -103,15 +106,15 @@
 - Researchers from Microsoft have created AI ethics checklist with nearly 50 engineers from a dozen tech companies
 - Google announced a new neural-network library: Neural Tangents
 
-### Issue #8: [February 2020](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%238.md)
+### Issue #8: [February 2020](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%2308.md)
 - Geoffrey Hinton, Yann LeCun, and Yoshua Bengio have been invited to AAAI-2020 conference to give a talk
 - Powerful antibiotic discovered using machine learning for first time                                                 
 ---                                                 
-### Issue #7: [August 2019](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%237.md)
+### Issue #7: [August 2019](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%2307.md)
 - OpenAI releases GPT-2 774M parameter model
 - TF 2.0 is now available
 
-### Issue #6: [July 2019](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%236.md)
+### Issue #6: [July 2019](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%2306.md)
 - GPT-2 and BERT on-device with Swift and CoreML
 - Microsoft invests $1B in OpenAI
 - pip install pytorch-transformers
@@ -119,24 +122,24 @@
 - Google ML Summit in Tokyo
 - New fast.ai course: A Code-First Introduction to Natural Language Processing
 
-### Issue #5: [June 2019](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%235.md)
+### Issue #5: [June 2019](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%2305.md)
 - Semantic Sanity
 - ICML 2019: Thirty-sixth International Conference on Machine Learning
 - Research: AI is a ‘welcome boost’ that could add millions to GDP
 
-### Issue #4: [May 2019](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%234.md)
+### Issue #4: [May 2019](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%2304.md)
 - Expanded dataset: More MNIST examples
 - Facebook upgraded its AI services
 - G-7 Science Academies release statements on AI
 - ML algorithm predicts heart attacks with 90% accuracy
 
-### Issue #3: [April 2019](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%233.md)
+### Issue #3: [April 2019](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%2303.md)
 - Fooling automated surveillance cameras: adversarial patches to attack person detection
 - Tesla Autonomy Day
 - OpenAI Five defeats Dota 2 world champions @OGesports
 - Ian Goodfellow changes from Google Brain to Apple
 
-### Issue #2: [March 2019](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%232.md)
+### Issue #2: [March 2019](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%2302.md)
 - Yann LeCun, Geoffrey Hinton and Yoshua Bengio win Turing Award
 - NVIDIA introduces the Jetson Nano - a small AI computer
 - OpenAI changes from non-profit to for-profit
@@ -146,7 +149,7 @@
 - Google open sourced GPipe
 - OpenAI released Activation Atlas
 
-### Issue #1: [February 2019](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%231.md)
+### Issue #1: [February 2019](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%2301.md)
 - Coursera: Andrew Ng launched AI for Everyone
 - DeepMind: ML can increase the value of wind energy 
 - Lingvo: TF framework for sequence modeling tasks open sourced
