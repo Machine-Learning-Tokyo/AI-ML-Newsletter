@@ -1,6 +1,8 @@
 # AI Digest: Monthly updates on AI and ML topics
 
 ### Issue #20: [February 2021](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%2320.md)
+- CVPR 2021 Workshops
+
 
 ### Issue #19: [January 2021](https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/issues/issue%2319.md)
 - Visdom: a data visualization tool
